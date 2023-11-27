@@ -15,5 +15,7 @@ def Get_Matches():
     matchUrl = f"https://www.fotmob.com/api/matchDetails?matchId={matchId}"
     matchResponse = json.loads(requests.request("GET", matchUrl, headers=headers, data=payload).text)
 
-    print(matchResponse)
+    # first index is lineup #, second index is player #, third index is always 0, fourth index is always 0
+    # prints FotMob rating
+    print(matchResponse["content"]["lineup"]["lineup"][0]["optaLineup"]["players"][0][0]["stats"][0]["stats"]["FotMob rating"]["value"])
 Get_Matches()
