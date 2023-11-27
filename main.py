@@ -9,7 +9,11 @@ def Get_Matches():
 
     response = json.loads(requests.request("GET", url, headers=headers, data=payload).text)
 
-    print(response["matches"]["allMatches"][0])
+    # print(response["matches"]["allMatches"][0])
 
+    matchId = response["matches"]["allMatches"][0]["id"]
+    matchUrl = f"https://www.fotmob.com/api/matchDetails?matchId={matchId}"
+    matchResponse = json.loads(requests.request("GET", matchUrl, headers=headers, data=payload).text)
 
+    print(matchResponse)
 Get_Matches()
