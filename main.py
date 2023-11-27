@@ -1,16 +1,15 @@
-import pandas as pd
+import requests
+import json
 
-# Get the list of competitions
-competitions = []
+def Get_Matches():
+    url = "https://www.fotmob.com/api/leagues?id=130&ccode3=USA_FL&season=2022"
 
-# Filter the competitions by season 2019/2020
-seasons = []
+    payload = {}
+    headers = {}
 
-# Get the list of matches for each competition and season
-matches = []
+    response = json.loads(requests.request("GET", url, headers=headers, data=payload).text)
 
-# Concatenate the matches into a single dataframe
+    print(response["matches"]["allMatches"][0])
 
-# Print the number of matches and the first matches rows
-print(f"There are {len(matches)} matches in season 2019/2020.")
-print(matches[:5])
+
+Get_Matches()
