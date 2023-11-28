@@ -1,6 +1,25 @@
 # Impact-of-Home-Climate-on-Soccer-Performance
 The Impact of an Athlete’s Home Country Weather and Climate on Soccer Performance
 
+## Classification System
+| 1st             | 2nd                                                                        | 3rd                                                                 |
+|-----------------|----------------------------------------------------------------------------|---------------------------------------------------------------------|
+| A (Tropical)    | f (Rainforest) 
+| |m (Monsoon)|
+| |w (Savanna, dry winter)
+| |s (Savanna, dry summer) |                                                                     |
+| B(Dry)          | W (Arid Desert) | h (Hot)
+||S (Semi-Arid or steppe)                                    | k (Cold)                                                    |
+| C (Temperate)   | w (Dry winter) |a (Hot summer)
+||f (No dry season) |b (Warm summer)
+||s (Dry summer)                            | c (Cold summer)                      |
+| D (Continental) | w (Dry winter) |a (Hot summer)
+||f (No dry season) |b (Warm summer)
+||s (Dry summer)|c (Cold summer)
+||                            |    d (Very cold winter) |
+| E (Polar)       |                                                                            | T (Tundra) 
+|||F (Ice cap)                                              |
+
 ## Getting Started
 
 Follow these steps to run the code on your machine:

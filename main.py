@@ -1,9 +1,12 @@
 import requests
+import pvcz
 import json
 import csv
 import time
 
 def Get_Matches():
+    df = pvcz.get_pvcz_data()
+    
     url = 'https://www.fotmob.com/api/leagues?id=130&ccode3=USA_FL&season=2022'
     payload = {}
     headers = {}
@@ -11,7 +14,7 @@ def Get_Matches():
     matchData = json.loads(requests.request("GET", url, headers=headers, data=payload).text)["matches"]["allMatches"]
 
     with open('matches.csv', 'w', newline='', encoding='utf-8') as file:
-        fieldnames = ['Match ID', 'Date', 'Stadium', 'City', 'Country', 'Latitude', 'Longitude', 'Team 1', 'Team 2']
+        fieldnames = ['Match ID', 'Date', 'Stadium', 'City', 'Country', 'Latitude', 'Longitude', 'Koppen Climate', 'Team 1', 'Team 2']
         for i in range(1, 23):
             fieldnames.extend([f'Player{i} Rating'])
         
@@ -26,6 +29,9 @@ def Get_Matches():
             stadium = matchResponse['content']['matchFacts']['infoBox']['Stadium']
             date = matchResponse["general"]["matchTimeUTC"]
 
+            closest_index = pvcz.arg_closest_point(stadium['lat'], stadium['long'], df['lat'], df['lon'])
+            location_data = df.iloc[closest_index]
+            
             row_data = {
                 'Match ID': matchId,
                 'Date': date,
@@ -34,6 +40,7 @@ def Get_Matches():
                 'Country': stadium['country'],
                 'Latitude': stadium['lat'],
                 'Longitude': stadium['long'],
+                'Koppen Climate': location_data['KG_zone'],
                 'Team 1': matchResponse['content']['lineup']['lineup'][0]["teamName"],
                 'Team 2': matchResponse['content']['lineup']['lineup'][1]["teamName"]
             }
