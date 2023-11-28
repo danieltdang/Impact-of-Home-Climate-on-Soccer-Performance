@@ -38,8 +38,6 @@ def Get_Matches():
 
             player_count = 1
             for team in range(2):
-                teamName = matchResponse['content']['lineup']['lineup'][team]['teamName']
-
                 try:
                     for player in matchResponse['content']['lineup']['lineup'][team]['optaLineup']['players']:
                         for obj in player:
