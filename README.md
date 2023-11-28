@@ -20,6 +20,9 @@ The Impact of an Athlete’s Home Country Weather and Climate on Soccer Performa
 | E (Polar)       |                                                                            | T (Tundra) 
 |||F (Ice cap)                                              |
 
+### Example Classification
+- `Cfa` will be classified as `Temperate, no dry season, and hot summer`
+
 ## Getting Started
 
 Follow these steps to run the code on your machine:
