@@ -11,14 +11,14 @@ def Get_Matches():
     matchData = json.loads(requests.request("GET", url, headers=headers, data=payload).text)["matches"]["allMatches"]
 
     with open('matches.csv', 'w', newline='', encoding='utf-8') as file:
-        fieldnames = ['Match ID', 'Date', 'Stadium', 'City', 'Country', 'Latitude', 'Longitude']
+        fieldnames = ['Match ID', 'Date', 'Stadium', 'City', 'Country', 'Latitude', 'Longitude', 'Team 1', 'Team 2']
         for i in range(1, 23):
             fieldnames.extend([f'Player{i} Rating'])
         
         writer = csv.DictWriter(file, fieldnames=fieldnames)
         writer.writeheader()
 
-        for match in matchData:
+        for i, match in enumerate(matchData):
             matchId = match["id"]
             matchUrl = f"https://www.fotmob.com/api/matchDetails?matchId={matchId}"
             matchResponse = json.loads(requests.request("GET", matchUrl, headers=headers, data=payload).text)
@@ -33,27 +33,33 @@ def Get_Matches():
                 'City': stadium['city'],
                 'Country': stadium['country'],
                 'Latitude': stadium['lat'],
-                'Longitude': stadium['long']
+                'Longitude': stadium['long'],
+                'Team 1': matchResponse['content']['lineup']['lineup'][0]["teamName"],
+                'Team 2': matchResponse['content']['lineup']['lineup'][1]["teamName"]
             }
 
+            # 3787425 only first 3 players
             player_count = 1
             for team in range(2):
                 try:
                     for player in matchResponse['content']['lineup']['lineup'][team]['optaLineup']['players']:
                         for obj in player:
-                            playerRating = obj["rating"]["num"]
+                            #playerRating = obj["rating"]["num"]
+                            playerRating = obj['stats'][0]['stats']['FotMob rating']['value']
 
                             row_data[f'Player{player_count} Rating'] = playerRating
 
                             player_count += 1
                             if player_count > 22:
                                 break
+                    
+                    print(f"Match {i} [{matchId}] - Team {team + 1} Successfully written to file")
 
                 except Exception as e:
-                    print(f"Error finding lineup")
+                    print(f"Match {i} [{matchId}] - Team {team + 1} Error finding lineup: {e}")
 
             writer.writerow(row_data)
-
+            
             time.sleep(2.5)
 
 Get_Matches()
