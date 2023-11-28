@@ -39,19 +39,24 @@ def Get_Matches():
             }
 
             # 3787425 only first 3 players
+            # players[[{player1}, {player2}, {player3}], [{player1}, {player2}, {player3}]]
             player_count = 1
             for team in range(2):
                 try:
-                    for player in matchResponse['content']['lineup']['lineup'][team]['optaLineup']['players']:
-                        for obj in player:
-                            #playerRating = obj["rating"]["num"]
-                            playerRating = obj['stats'][0]['stats']['FotMob rating']['value']
+                    for roles in matchResponse['content']['lineup']['lineup'][team]['players']:
+                        for player in roles:
+                            try:
+                                #playerRating = player["rating"]["num"]
+                                playerRating = player['stats'][0]['stats']['FotMob rating']['value']
 
-                            row_data[f'Player{player_count} Rating'] = playerRating
+                                row_data[f'Player{player_count} Rating'] = playerRating
 
-                            player_count += 1
-                            if player_count > 22:
-                                break
+                                player_count += 1
+                                if player_count > 22:
+                                    break
+                            except Exception as e:
+                                print(f"Match {i} [{matchId}] - Team {team + 1} Error finding player rating: {e}")
+                                continue
                     
                     print(f"Match {i} [{matchId}] - Team {team + 1} Successfully written to file")
 
