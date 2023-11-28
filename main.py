@@ -58,13 +58,13 @@ def Get_Matches():
                                 print(f"Match {i} [{matchId}] - Team {team + 1} Error finding player rating: {e}")
                                 continue
                     
-                    print(f"Match {i} [{matchId}] - Team {team + 1} Successfully written to file")
+                    #print(f"Match {i} [{matchId}] - Team {team + 1} Successfully written to file")
 
                 except Exception as e:
                     print(f"Match {i} [{matchId}] - Team {team + 1} Error finding lineup: {e}")
 
             writer.writerow(row_data)
-            
+            print(f"Match {i} [{matchId}] - Successfully written to file")
             time.sleep(2.5)
 
 Get_Matches()
