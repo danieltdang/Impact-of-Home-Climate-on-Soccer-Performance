@@ -63,12 +63,14 @@ def Get_Matches():
                                 if player_count > 22:
                                     break
                             except Exception as e:
+                                errorCount += 1
                                 print(f"Match {i} [{matchId}] - Team {team + 1} Error finding player rating: {e}")
                                 continue
                     
                     #print(f"Match {i} [{matchId}] - Team {team + 1} Successfully written to file")
 
                 except Exception as e:
+                    errorCount += 1
                     print(f"Match {i} [{matchId}] - Team {team + 1} Error finding lineup: {e}")
 
             writer.writerow(row_data)
