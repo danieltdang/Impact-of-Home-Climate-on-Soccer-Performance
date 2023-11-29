@@ -45,8 +45,6 @@ def Get_Matches():
                 'Team 2': matchResponse['content']['lineup']['lineup'][1]["teamName"]
             }
 
-            # 3787425 only first 3 players
-            # players[[{player1}, {player2}, {player3}], [{player1}, {player2}, {player3}]]
             player_count = 1
             for team in range(2):
                 try:
