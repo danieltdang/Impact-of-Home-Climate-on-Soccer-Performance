@@ -55,7 +55,7 @@ def Get_Matches():
                     for roles in matchResponse['content']['lineup']['lineup'][team]['players']:
                         for player in roles:
                             try:
-                                #playerRating = player["rating"]["num"]
+                                # playerRating = player["rating"]["num"]
                                 playerRating = player['stats'][0]['stats']['FotMob rating']['value']
 
                                 row_data[f'Player{player_count} Rating'] = playerRating
@@ -68,7 +68,7 @@ def Get_Matches():
                                 print(f"Match {i} [{matchId}] - Team {team + 1} Error finding player rating: {e}")
                                 continue
                     
-                    #print(f"Match {i} [{matchId}] - Team {team + 1} Successfully written to file")
+                    # print(f"Match {i} [{matchId}] - Team {team + 1} Successfully written to file")
 
                 except Exception as e:
                     errorCount += 1
