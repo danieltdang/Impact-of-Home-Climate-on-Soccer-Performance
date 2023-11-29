@@ -13,6 +13,9 @@ def Get_Matches():
 
     matchData = json.loads(requests.request("GET", url, headers=headers, data=payload).text)["matches"]["allMatches"]
 
+    # Stored counts for printing after finished processing all matches
+    matchCount, errorCount = len(matchData), 0
+    
     with open('matches.csv', 'w', newline='', encoding='utf-8') as file:
         fieldnames = ['Match ID', 'Date', 'Stadium', 'City', 'Country', 'Latitude', 'Longitude', 'Koppen Climate', 'Team 1', 'Team 2']
         for i in range(1, 23):
@@ -70,5 +73,7 @@ def Get_Matches():
 
             writer.writerow(row_data)
             print(f"Match {i} [{matchId}] - Successfully written to file")
+    
+    print(f"Finished processing {matchCount} matches with {matchCount * 22} players and {errorCount} errors")
 
 Get_Matches()
