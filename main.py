@@ -70,6 +70,5 @@ def Get_Matches():
 
             writer.writerow(row_data)
             print(f"Match {i} [{matchId}] - Successfully written to file")
-            time.sleep(2.5)
 
 Get_Matches()
