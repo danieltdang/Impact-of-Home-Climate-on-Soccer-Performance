@@ -3,8 +3,7 @@ import pvcz
 import json
 import csv
 import time
-
-TEAM_ROLES = ['Keeper', 'Defender', 'Midfielder', 'Attacker']
+from datetime import datetime, timezone
 
 def Get_Matches():
     df = pvcz.get_pvcz_data()
@@ -19,13 +18,9 @@ def Get_Matches():
     matchCount, errorCount = len(matchData), 0
     
     print(f"Processing {matchCount} matches...")
+    
     with open('matches.csv', 'w', newline='', encoding='utf-8') as file:
-        fieldnames = ['Match ID', 'Date', 'Stadium', 'City', 'Country', 'Latitude', 'Longitude', 'Koppen Climate', 'Team 1', 'Team 2', 'HomeTeam Avg Rating', 'AwayTeam Avg Rating']
-        for role in TEAM_ROLES:
-            fieldnames.append(f'HomeTeam {role} Avg Rating')
-        
-        for role in TEAM_ROLES:
-            fieldnames.append(f'AwayTeam {role} Avg Rating')
+        fieldnames = ['Match ID', 'Date', 'Stadium', 'City', 'Country', 'Latitude', 'Longitude', 'Koppen Climate', 'Home Team', 'Away Team', 'Home Avg Rating', 'Away Avg Rating']
         
         writer = csv.DictWriter(file, fieldnames=fieldnames)
         writer.writeheader()
@@ -36,44 +31,51 @@ def Get_Matches():
             matchResponse = json.loads(requests.request("GET", matchUrl, headers=headers, data=payload).text)
 
             stadium = matchResponse['content']['matchFacts']['infoBox']['Stadium']
+            
+            # Convert UTC time to standardized date format
             date = matchResponse["general"]["matchTimeUTC"]
+            
+            # Define the input format
+            input_format = "%a, %b %d, %Y, %H:%M %Z"
+
+            # Parse the UTC time string
+            utc_time = datetime.strptime(date, input_format)
+
+            # Convert to local time
+            utc_time = utc_time.replace(tzinfo=timezone.utc)
+            local_time = utc_time.astimezone()
+
+            # Define the output format
+            output_format = "%m/%d/%y"
+
+            formatted_date = local_time.strftime(output_format)
 
             closest_index = pvcz.arg_closest_point(stadium['lat'], stadium['long'], df['lat'], df['lon'])
             location_data = df.iloc[closest_index]
             
             row_data = {
                 'Match ID': matchId,
-                'Date': date,
+                'Date': formatted_date,
                 'Stadium': stadium['name'],
                 'City': stadium['city'],
                 'Country': stadium['country'],
                 'Latitude': stadium['lat'],
                 'Longitude': stadium['long'],
                 'Koppen Climate': location_data['KG_zone'],
-                'Team 1': matchResponse['content']['lineup']['lineup'][0]["teamName"],
-                'Team 2': matchResponse['content']['lineup']['lineup'][1]["teamName"]
+                'Home Team': matchResponse['content']['lineup']['lineup'][0]["teamName"],
+                'Home Avg Rating': 0.0,
+                'Away Team': matchResponse['content']['lineup']['lineup'][1]["teamName"],
+                'Away Avg Rating': 0.0
             }
 
             for team in range(2):
-                playerRating = [0,0,0,0]
-                playerCount = [0,0,0,0]
+                teamRating = 0.0
+                playerCount = 11
                 try:
                     for roles in matchResponse['content']['lineup']['lineup'][team]['players']:
                         for player in roles:
-
                             try:
-                                if player["position"] == 'Keeper':
-                                    playerRating[0] += player['stats'][0]['stats']['FotMob rating']['value']
-                                    playerCount[0] += 1
-                                elif player["position"] == 'Defender':
-                                    playerRating[1] += player['stats'][0]['stats']['FotMob rating']['value']
-                                    playerCount[1] += 1
-                                elif player["position"] == 'Midfielder':
-                                    playerRating[2] += player['stats'][0]['stats']['FotMob rating']['value']
-                                    playerCount[2] += 1
-                                elif player["position"] == 'Attacker':
-                                    playerRating[3] += player['stats'][0]['stats']['FotMob rating']['value']
-                                    playerCount[3] += 1 
+                                teamRating += player['stats'][0]['stats']['FotMob rating']['value']
                                 
                             except Exception as e:
                                 errorCount += 1
@@ -86,14 +88,14 @@ def Get_Matches():
                     errorCount += 1
                     print(f"Match {i} [{matchId}] - Team {team + 1} Error finding lineup: {e}")
 
-                for i in range(0, 4):
-                    if team == 0: 
-                        row_data[f'HomeTeam {TEAM_ROLES[i]} Avg Rating'] = round(playerRating[i] / playerCount[i],2)
-                    else:
-                        row_data[f'AwayTeam {TEAM_ROLES[i]} Avg Rating'] = round(playerRating[i] / playerCount[i],2)
+            
+                if team == 0: 
+                    row_data['Home Avg Rating'] = round(teamRating / playerCount, 2)
+                else:
+                    row_data['Away Avg Rating'] = round(teamRating / playerCount, 2)
 
             writer.writerow(row_data)
-            print(f"Match {i} [{matchId}] - Successfully written to file")
+            print(f"Match {i} [{matchId}] - Processing complete")
     
     print(f"Finished processing {matchCount} matches with {matchCount * 22} players and {errorCount} errors")
 
