@@ -80,7 +80,7 @@ def Get_Matches():
                             except:
                                 # in rare cases where a player has no rating (1 out of 10,758 so far), we try to get the less accurate rating
                                 try:
-                                    teamRating += player["rating"]["num"]
+                                    teamRating += float(player["rating"]["num"])
                                     
                                 except Exception as e:
                                     errorCount += 1
