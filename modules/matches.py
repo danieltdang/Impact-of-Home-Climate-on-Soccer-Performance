@@ -77,10 +77,15 @@ def Get_Matches():
                             try:
                                 teamRating += player['stats'][0]['stats']['FotMob rating']['value']
                                 
-                            except Exception as e:
-                                errorCount += 1
-                                print(f"Match {i} [{matchId}] - Team {team + 1} Error finding player rating: {e}")
-                                continue
+                            except:
+                                # in rare cases where a player has no rating (1 out of 10,758 so far), we try to get the less accurate rating
+                                try:
+                                    teamRating += player["rating"]["num"]
+                                    
+                                except Exception as e:
+                                    errorCount += 1
+                                    print(f"Match {i} [{matchId}] - Team {team + 1} Error finding player rating: {e}")
+                                    continue
                     
                     #print(f"Match {i} [{matchId}] - Team {team + 1} Successfully written to file")
 
