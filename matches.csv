@@ -1,490 +1,490 @@
-Match ID,Date,Stadium,City,Country,Latitude,Longitude,Koppen Climate,Home Team,Away Team,Home Avg Rating,Away Avg Rating
-3787303,02/26/22,Subaru Park,"Chester, Pennsylvania",United States,39.83268,-75.378817,Cfa,Philadelphia Union,Minnesota United,7.21,7.29
-3787426,02/26/22,New Crew Stadium,"Columbus, Ohio",United States,39.968452,-83.017099,Cfa,Columbus Crew,Vancouver Whitecaps,7.74,6.05
-3787290,02/26/22,Banc of California Stadium,"Los Angeles, California",United States,34.012769,-118.284549,BSk,Los Angeles FC,Colorado Rapids,7.74,6.25
-3787425,02/26/22,Toyota Stadium,"Frisco, Texas",United States,33.154336,-96.835143,Cfa,FC Dallas,Toronto FC,7.01,7.19
-3787289,02/26/22,Q2 Stadium,"Austin, Texas",United States,30.387727,-97.719505,Cfa,Austin FC,FC Cincinnati,7.82,5.78
-3787288,02/26/22,Audi Field,"Washington, District of Columbia",United States,38.868802,-77.012888,Cfa,DC United,Charlotte FC,7.59,6.34
-3787287,02/26/22,Lockhart Stadium,"Fort Lauderdale, Florida",United States,26.193091,-80.161035,Aw,Inter Miami CF,Chicago Fire FC,7.06,7.33
-3787286,02/26/22,Earthquakes Stadium,"San Jose, California",United States,37.351179,-121.924619,Csb,San Jose Earthquakes,New York Red Bulls,6.76,7.59
-3787285,02/26/22,Providence Park,"Portland, Oregon",United States,45.521411,-122.691751,Csb,Portland Timbers,New England Revolution,7.08,7.13
-3787424,02/27/22,Exploria Stadium,"Orlando, Florida",United States,28.541118,-81.389311,Cfa,Orlando City,CF Montreal,7.25,6.08
-3787284,02/27/22,Mercedes-Benz Stadium,"Atlanta, Georgia",United States,33.755406,-84.401075,Cfa,Atlanta United,Sporting Kansas City,7.48,6.46
-3787283,02/27/22,Dignity Health Sports Park,"Carson, California",United States,33.864336,-118.261079,BSk,LA Galaxy,New York City FC,7.47,6.69
-3787282,02/27/22,BBVA Stadium,"Houston, Texas",United States,29.75224,-95.352179,Cfa,Houston Dynamo FC,Real Salt Lake,6.66,7.06
-3787281,02/27/22,Lumen Field,"Seattle, Washington",United States,47.595163,-122.331632,Csb,Seattle Sounders FC,Nashville SC,6.51,7.5
-3787291,03/05/22,Gillette Stadium,"Foxborough, Massachusetts",United States,42.091296,-71.264046,Dfb,New England Revolution,FC Dallas,7.36,6.97
-3787423,03/05/22,BMO Field,"Toronto, Ontario",Canada,43.633206,-79.418557,Dfb,Toronto FC,New York Red Bulls,6.24,7.91
-3787292,03/05/22,Children's Mercy Park,"Kansas City, Kansas",United States,39.1216,-94.823191,Cfa,Sporting Kansas City,Houston Dynamo FC,7.45,6.44
-3787422,03/05/22,Stade Olympique,"Montréal, QC",Canada,45.557912,-73.551922,Dfb,CF Montreal,Philadelphia Union,6.71,7.3
-3787302,03/05/22,Earthquakes Stadium,"San Jose, California",United States,37.351179,-121.924619,Csb,San Jose Earthquakes,Columbus Crew,6.75,6.93
-3787301,03/05/22,Soldier Field,"Chicago, Illinois",United States,41.86231,-87.616675,Dfa,Chicago Fire FC,Orlando City,7.11,6.9
-3787299,03/05/22,Dick's Sporting Goods Park,"Denver, Colorado",United States,39.805676,-104.891807,Dfc,Colorado Rapids,Atlanta United,7.55,6.28
-3787300,03/05/22,TQL Stadium,"Cincinnati, Ohio",United States,39.111095,-84.522244,Cfa,FC Cincinnati,DC United,6.77,7.17
-3787298,03/05/22,Allianz Field,"Saint Paul, Minnesota",United States,44.953128,-93.164766,Dfa,Minnesota United,Nashville SC,6.94,7.24
-3787297,03/05/22,Rio Tinto Stadium,"Sandy, Utah",United States,40.582817,-111.893585,BSk,Real Salt Lake,Seattle Sounders FC,7.62,6.55
-3787421,03/05/22,BC Place Stadium,"Vancouver, British Columbia",Canada,49.276723,-123.112031,Cfb,Vancouver Whitecaps,New York City FC,6.94,6.97
-3787296,03/05/22,Bank of America Stadium,"Charlotte, North Carolina",United States,35.225823,-80.852873,Cfa,Charlotte FC,LA Galaxy,6.66,7.42
-3787295,03/06/22,Q2 Stadium,"Austin, Texas",United States,30.387727,-97.719505,Cfa,Austin FC,Inter Miami CF,7.29,5.95
-3787294,03/06/22,Banc of California Stadium,"Los Angeles, California",United States,34.012769,-118.284549,BSk,Los Angeles FC,Portland Timbers,7.12,7.23
-3787409,03/12/22,Yankee Stadium,New York City,United States,40.829686,-73.926203,Cfa,New York City FC,CF Montreal,7.62,5.97
-3787451,03/12/22,New Crew Stadium,"Columbus, Ohio",United States,39.968452,-83.017099,Cfa,Columbus Crew,Toronto FC,7.58,6.95
-3787293,03/12/22,Lockhart Stadium,"Fort Lauderdale, Florida",United States,26.193091,-80.161035,Aw,Inter Miami CF,Los Angeles FC,6.62,7.05
-3787280,03/12/22,Lumen Field,"Seattle, Washington",United States,47.595163,-122.331632,Csb,Seattle Sounders FC,LA Galaxy,7.02,6.83
-3787452,03/12/22,BBVA Stadium,"Houston, Texas",United States,29.75224,-95.352179,Cfa,Houston Dynamo FC,Vancouver Whitecaps,7.19,6.87
-3787279,03/12/22,Audi Field,"Washington, District of Columbia",United States,38.868802,-77.012888,Cfa,DC United,Chicago Fire FC,6.78,7.84
-3787266,03/12/22,Gillette Stadium,"Foxborough, Massachusetts",United States,42.091296,-71.264046,Dfb,New England Revolution,Real Salt Lake,6.61,7.35
-3787265,03/12/22,Exploria Stadium,"Orlando, Florida",United States,28.541118,-81.389311,Cfa,Orlando City,FC Cincinnati,6.74,7.32
-3787264,03/12/22,Subaru Park,"Chester, Pennsylvania",United States,39.83268,-75.378817,Cfa,Philadelphia Union,San Jose Earthquakes,7.75,6.61
-3787263,03/12/22,Toyota Stadium,"Frisco, Texas",United States,33.154336,-96.835143,Cfa,FC Dallas,Nashville SC,7.25,6.76
-3787262,03/12/22,Dick's Sporting Goods Park,"Denver, Colorado",United States,39.805676,-104.891807,Dfc,Colorado Rapids,Sporting Kansas City,7.56,6.38
-3787261,03/12/22,Providence Park,"Portland, Oregon",United States,45.521411,-122.691751,Csb,Portland Timbers,Austin FC,7.53,6.42
-3787259,03/13/22,Mercedes-Benz Stadium,"Atlanta, Georgia",United States,33.755406,-84.401075,Cfa,Atlanta United,Charlotte FC,7.35,6.76
-3787260,03/13/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York Red Bulls,Minnesota United,7.09,7.66
-3787258,03/19/22,TQL Stadium,"Cincinnati, Ohio",United States,39.111095,-84.522244,Cfa,FC Cincinnati,Inter Miami CF,7.41,6.24
-3787257,03/19/22,Yankee Stadium,New York City,United States,40.829686,-73.926203,Cfa,New York City FC,Philadelphia Union,6.66,7.66
-3787453,03/19/22,BMO Field,"Toronto, Ontario",Canada,43.633206,-79.418557,Dfb,Toronto FC,DC United,7.46,6.75
-3787267,03/19/22,Dignity Health Sports Park,"Carson, California",United States,33.864336,-118.261079,BSk,LA Galaxy,Orlando City,6.71,7.27
-3787454,03/19/22,Mercedes-Benz Stadium,"Atlanta, Georgia",United States,33.755406,-84.401075,Cfa,Atlanta United,CF Montreal,6.54,6.98
-3787268,03/19/22,Soldier Field,"Chicago, Illinois",United States,41.86231,-87.616675,Dfa,Chicago Fire FC,Sporting Kansas City,7.44,6.47
-3787278,03/19/22,Bank of America Stadium,"Charlotte, North Carolina",United States,35.225823,-80.852873,Cfa,Charlotte FC,New England Revolution,7.43,6.32
-3787277,03/19/22,Allianz Field,"Saint Paul, Minnesota",United States,44.953128,-93.164766,Dfa,Minnesota United,San Jose Earthquakes,7.31,6.86
-3787276,03/19/22,Toyota Stadium,"Frisco, Texas",United States,33.154336,-96.835143,Cfa,FC Dallas,Portland Timbers,7.61,6.32
-3787275,03/19/22,BBVA Stadium,"Houston, Texas",United States,29.75224,-95.352179,Cfa,Houston Dynamo FC,Colorado Rapids,6.91,7.01
-3787274,03/19/22,Rio Tinto Stadium,"Sandy, Utah",United States,40.582817,-111.893585,BSk,Real Salt Lake,Nashville SC,7.5,6.69
-3787273,03/20/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York Red Bulls,Columbus Crew,6.77,7.04
-3787272,03/20/22,Q2 Stadium,"Austin, Texas",United States,30.387727,-97.719505,Cfa,Austin FC,Seattle Sounders FC,7.05,7.11
-3787455,03/20/22,Banc of California Stadium,"Los Angeles, California",United States,34.012769,-118.284549,BSk,Los Angeles FC,Vancouver Whitecaps,7.46,6.9
-3787271,03/26/22,Bank of America Stadium,"Charlotte, North Carolina",United States,35.225823,-80.852873,Cfa,Charlotte FC,FC Cincinnati,7.33,6.8
-3787270,03/26/22,Children's Mercy Park,"Kansas City, Kansas",United States,39.1216,-94.823191,Cfa,Sporting Kansas City,Real Salt Lake,7.39,6.71
-3787269,03/27/22,Providence Park,"Portland, Oregon",United States,45.521411,-122.691751,Csb,Portland Timbers,Orlando City,6.86,7.32
-3787256,04/02/22,Soldier Field,"Chicago, Illinois",United States,41.86231,-87.616675,Dfa,Chicago Fire FC,FC Dallas,7.01,6.85
-3787456,04/02/22,TQL Stadium,"Cincinnati, Ohio",United States,39.111095,-84.522244,Cfa,FC Cincinnati,CF Montreal,6.68,7.5
-3787474,04/02/22,BMO Field,"Toronto, Ontario",Canada,43.633206,-79.418557,Dfb,Toronto FC,New York City FC,7.59,6.77
-3787304,04/02/22,Lower.com Field,"Columbus, Ohio",United States,39.968452,-83.017099,Cfa,Columbus Crew,Nashville SC,7.0,7.42
-3787305,04/02/22,Audi Field,"Washington, District of Columbia",United States,38.868802,-77.012888,Cfa,DC United,Atlanta United,6.56,7.44
-3787306,04/02/22,Gillette Stadium,"Foxborough, Massachusetts",United States,42.091296,-71.264046,Dfb,New England Revolution,New York Red Bulls,6.82,6.86
-3787322,04/02/22,Exploria Stadium,"Orlando, Florida",United States,28.541118,-81.389311,Cfa,Orlando City,Los Angeles FC,6.47,7.21
-3787323,04/02/22,Subaru Park,"Chester, Pennsylvania",United States,39.83268,-75.378817,Cfa,Philadelphia Union,Charlotte FC,7.23,6.35
-3787324,04/02/22,Earthquakes Stadium,"San Jose, California",United States,37.351179,-121.924619,Csb,San Jose Earthquakes,Austin FC,7.04,7.04
-3787325,04/02/22,Lockhart Stadium,"Fort Lauderdale, Florida",United States,26.193091,-80.161035,Aw,Inter Miami CF,Houston Dynamo FC,6.8,7.38
-3787326,04/02/22,Allianz Field,"Saint Paul, Minnesota",United States,44.953128,-93.164766,Dfa,Minnesota United,Seattle Sounders FC,6.44,7.25
-3787475,04/02/22,BC Place Stadium,"Vancouver, British Columbia",Canada,49.276723,-123.112031,Cfb,Vancouver Whitecaps,Sporting Kansas City,7.26,6.63
-3787327,04/02/22,Dick's Sporting Goods Park,"Denver, Colorado",United States,39.805676,-104.891807,Dfc,Colorado Rapids,Real Salt Lake,7.23,6.97
-3787328,04/03/22,Providence Park,"Portland, Oregon",United States,45.521411,-122.691751,Csb,Portland Timbers,LA Galaxy,6.44,7.27
-3787329,04/09/22,Exploria Stadium,"Orlando, Florida",United States,28.541118,-81.389311,Cfa,Orlando City,Chicago Fire FC,7.6,6.58
-3787331,04/09/22,Lockhart Stadium,"Fort Lauderdale, Florida",United States,26.193091,-80.161035,Aw,Inter Miami CF,New England Revolution,7.52,6.48
-3787476,04/09/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York Red Bulls,CF Montreal,6.63,7.45
-3787333,04/09/22,Subaru Park,"Chester, Pennsylvania",United States,39.83268,-75.378817,Cfa,Philadelphia Union,Columbus Crew,7.17,6.77
-3787334,04/09/22,Dignity Health Sports Park,"Carson, California",United States,33.864336,-118.261079,BSk,LA Galaxy,Los Angeles FC,7.26,6.58
-3787477,04/09/22,Rio Tinto Stadium,"Sandy, Utah",United States,40.582817,-111.893585,BSk,Real Salt Lake,Toronto FC,7.06,6.82
-3787321,04/09/22,Toyota Stadium,"Frisco, Texas",United States,33.154336,-96.835143,Cfa,FC Dallas,Colorado Rapids,7.38,6.72
-3787320,04/09/22,BBVA Stadium,"Houston, Texas",United States,29.75224,-95.352179,Cfa,Houston Dynamo FC,San Jose Earthquakes,6.9,6.35
-3787307,04/09/22,Children's Mercy Park,"Kansas City, Kansas",United States,39.1216,-94.823191,Cfa,Sporting Kansas City,Nashville SC,6.88,7.37
-3787478,04/09/22,BC Place Stadium,"Vancouver, British Columbia",Canada,49.276723,-123.112031,Cfb,Vancouver Whitecaps,Portland Timbers,6.83,7.52
-3787330,04/10/22,Bank of America Stadium,"Charlotte, North Carolina",United States,35.225823,-80.852873,Cfa,Charlotte FC,Atlanta United,7.36,6.76
-3787309,04/10/22,Q2 Stadium,"Austin, Texas",United States,30.387727,-97.719505,Cfa,Austin FC,Minnesota United,7.31,6.85
-3787479,04/16/22,Stade Saputo,"Montreal, Quebec",Canada,45.563072,-73.552684,Dfb,CF Montreal,Vancouver Whitecaps,7.42,6.29
-3787310,04/16/22,Earthquakes Stadium,"San Jose, California",United States,37.351179,-121.924619,Csb,San Jose Earthquakes,Nashville SC,7.11,7.08
-3787311,04/16/22,Mercedes-Benz Stadium,"Atlanta, Georgia",United States,33.755406,-84.401075,Cfa,Atlanta United,FC Cincinnati,7.13,6.78
-3787312,04/16/22,BBVA Stadium,"Houston, Texas",United States,29.75224,-95.352179,Cfa,Houston Dynamo FC,Portland Timbers,6.8,7.23
-3787313,04/16/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York Red Bulls,FC Dallas,7.33,7.12
-3787314,04/16/22,Lower.com Field,"Columbus, Ohio",United States,39.968452,-83.017099,Cfa,Columbus Crew,Orlando City,6.42,7.65
-3787315,04/16/22,Audi Field,"Washington, District of Columbia",United States,38.868802,-77.012888,Cfa,DC United,Austin FC,6.42,6.87
-3787316,04/16/22,Gillette Stadium,"Foxborough, Massachusetts",United States,42.091296,-71.264046,Dfb,New England Revolution,Charlotte FC,7.47,6.55
-3787480,04/16/22,BMO Field,"Toronto, Ontario",Canada,43.633206,-79.418557,Dfb,Toronto FC,Philadelphia Union,7.31,6.98
-3787317,04/16/22,Soldier Field,"Chicago, Illinois",United States,41.86231,-87.616675,Dfa,Chicago Fire FC,LA Galaxy,6.94,7.07
-3787318,04/16/22,Allianz Field,"Saint Paul, Minnesota",United States,44.953128,-93.164766,Dfa,Minnesota United,Colorado Rapids,7.7,6.74
-3787319,04/16/22,Lumen Field,"Seattle, Washington",United States,47.595163,-122.331632,Csb,Seattle Sounders FC,Inter Miami CF,6.7,7.43
-3787335,04/17/22,Yankee Stadium,New York City,United States,40.829686,-73.926203,Cfa,New York City FC,Real Salt Lake,7.92,5.88
-3787336,04/17/22,Banc of California Stadium,"Los Angeles, California",United States,34.012769,-118.284549,BSk,Los Angeles FC,Sporting Kansas City,7.42,6.09
-3787347,04/23/22,Toyota Stadium,"Frisco, Texas",United States,33.154336,-96.835143,Cfa,FC Dallas,Houston Dynamo FC,7.0,6.75
-3787481,04/23/22,Subaru Park,"Chester, Pennsylvania",United States,39.83268,-75.378817,Cfa,Philadelphia Union,CF Montreal,6.77,7.04
-3787348,04/23/22,Allianz Field,"Saint Paul, Minnesota",United States,44.953128,-93.164766,Dfa,Minnesota United,Chicago Fire FC,7.52,6.08
-3787349,04/23/22,Audi Field,"Washington, District of Columbia",United States,38.868802,-77.012888,Cfa,DC United,New England Revolution,7.24,6.79
-3787482,04/23/22,Q2 Stadium,"Austin, Texas",United States,30.387727,-97.719505,Cfa,Austin FC,Vancouver Whitecaps,7.59,6.13
-3787350,04/23/22,Children's Mercy Park,"Kansas City, Kansas",United States,39.1216,-94.823191,Cfa,Sporting Kansas City,Columbus Crew,6.9,7.01
-3787351,04/23/22,Dick's Sporting Goods Park,"Denver, Colorado",United States,39.805676,-104.891807,Dfc,Colorado Rapids,Charlotte FC,6.91,6.72
-3787352,04/23/22,Providence Park,"Portland, Oregon",United States,45.521411,-122.691751,Csb,Portland Timbers,Real Salt Lake,7.25,7.14
-3787354,04/23/22,Earthquakes Stadium,"San Jose, California",United States,37.351179,-121.924619,Csb,San Jose Earthquakes,Seattle Sounders FC,7.53,6.5
-3787353,04/23/22,Dignity Health Sports Park,"Carson, California",United States,33.864336,-118.261079,BSk,LA Galaxy,Nashville SC,7.57,6.65
-3787346,04/24/22,Lockhart Stadium,"Fort Lauderdale, Florida",United States,26.193091,-80.161035,Aw,Inter Miami CF,Atlanta United,7.31,6.46
-3787345,04/24/22,Exploria Stadium,"Orlando, Florida",United States,28.541118,-81.389311,Cfa,Orlando City,New York Red Bulls,6.53,7.54
-3787337,04/24/22,TQL Stadium,"Cincinnati, Ohio",United States,39.111095,-84.522244,Cfa,FC Cincinnati,Los Angeles FC,6.98,7.57
-3787483,04/24/22,Citi Field,"New York, New York",United States,40.757205,-73.845828,Cfa,New York City FC,Toronto FC,7.18,6.7
-3787339,04/30/22,BBVA Stadium,"Houston, Texas",United States,29.75224,-95.352179,Cfa,Houston Dynamo FC,Austin FC,6.6,7.11
-3787484,04/30/22,BMO Field,"Toronto, Ontario",Canada,43.633206,-79.418557,Dfb,Toronto FC,FC Cincinnati,6.9,7.37
-3787340,04/30/22,Rio Tinto Stadium,"Sandy, Utah",United States,40.582817,-111.893585,BSk,Real Salt Lake,LA Galaxy,7.43,6.51
-3787485,04/30/22,Stade Saputo,"Montreal, Quebec",Canada,45.563072,-73.552684,Dfb,CF Montreal,Atlanta United,7.3,6.88
-3787341,04/30/22,Lower.com Field,"Columbus, Ohio",United States,39.968452,-83.017099,Cfa,Columbus Crew,DC United,7.5,6.3
-3787338,04/30/22,Gillette Stadium,"Foxborough, Massachusetts",United States,42.091296,-71.264046,Dfb,New England Revolution,Inter Miami CF,7.75,6.3
-3787342,04/30/22,Exploria Stadium,"Orlando, Florida",United States,28.541118,-81.389311,Cfa,Orlando City,Charlotte FC,7.47,6.54
-3787343,04/30/22,Soldier Field,"Chicago, Illinois",United States,41.86231,-87.616675,Dfa,Chicago Fire FC,New York Red Bulls,6.45,7.18
-3787344,04/30/22,Children's Mercy Park,"Kansas City, Kansas",United States,39.1216,-94.823191,Cfa,Sporting Kansas City,FC Dallas,6.99,7.15
-3787355,04/30/22,Dick's Sporting Goods Park,"Denver, Colorado",United States,39.805676,-104.891807,Dfc,Colorado Rapids,Portland Timbers,7.58,6.42
-3787356,05/01/22,Yankee Stadium,New York City,United States,40.829686,-73.926203,Cfa,New York City FC,San Jose Earthquakes,7.6,6.1
-3787366,05/01/22,GEODIS Park,"Nashville, Tennessee",United States,36.130239,-86.765556,Cfa,Nashville SC,Philadelphia Union,7.06,7.11
-3787367,05/01/22,Banc of California Stadium,"Los Angeles, California",United States,34.012769,-118.284549,BSk,Los Angeles FC,Minnesota United,7.62,6.63
-3787458,05/04/22,TQL Stadium,"Cincinnati, Ohio",United States,39.111095,-84.522244,Cfa,FC Cincinnati,Toronto FC,7.63,6.4
-3787369,05/07/22,Bank of America Stadium,"Charlotte, North Carolina",United States,35.225823,-80.852873,Cfa,Charlotte FC,Inter Miami CF,7.36,6.94
-3787487,05/07/22,Stade Saputo,"Montreal, Quebec",Canada,45.563072,-73.552684,Dfb,CF Montreal,Orlando City,7.5,5.74
-3787370,05/07/22,Mercedes-Benz Stadium,"Atlanta, Georgia",United States,33.755406,-84.401075,Cfa,Atlanta United,Chicago Fire FC,7.51,5.94
-3787365,05/07/22,Citi Field,"New York, New York",United States,40.757205,-73.845828,Cfa,New York City FC,Sporting Kansas City,7.15,6.92
-3787371,05/07/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York Red Bulls,Portland Timbers,7.2,7.05
-3787364,05/07/22,Audi Field,"Washington, District of Columbia",United States,38.868802,-77.012888,Cfa,DC United,Houston Dynamo FC,7.5,6.7
-3787363,05/07/22,Gillette Stadium,"Foxborough, Massachusetts",United States,42.091296,-71.264046,Dfb,New England Revolution,Columbus Crew,7.19,6.75
-3787362,05/07/22,Allianz Field,"Saint Paul, Minnesota",United States,44.953128,-93.164766,Dfa,Minnesota United,FC Cincinnati,7.01,7.22
-3787361,05/07/22,Toyota Stadium,"Frisco, Texas",United States,33.154336,-96.835143,Cfa,FC Dallas,Seattle Sounders FC,7.55,6.26
-3787368,05/07/22,Earthquakes Stadium,"San Jose, California",United States,37.351179,-121.924619,Csb,San Jose Earthquakes,Colorado Rapids,7.39,6.9
-3787360,05/07/22,Banc of California Stadium,"Los Angeles, California",United States,34.012769,-118.284549,BSk,Los Angeles FC,Philadelphia Union,6.96,7.16
-3787473,05/08/22,BC Place Stadium,"Vancouver, British Columbia",Canada,49.276723,-123.112031,Cfb,Vancouver Whitecaps,Toronto FC,7.18,6.67
-3787359,05/08/22,GEODIS Park,"Nashville, Tennessee",United States,36.130239,-86.765556,Cfa,Nashville SC,Real Salt Lake,7.48,6.57
-3787358,05/08/22,Q2 Stadium,"Austin, Texas",United States,30.387727,-97.719505,Cfa,Austin FC,LA Galaxy,6.65,7.08
-3787472,05/14/22,BMO Field,"Toronto, Ontario",Canada,43.633206,-79.418557,Dfb,Toronto FC,Orlando City,6.58,7.43
-3787357,05/14/22,Dick's Sporting Goods Park,"Denver, Colorado",United States,39.805676,-104.891807,Dfc,Colorado Rapids,Los Angeles FC,7.35,6.35
-3787471,05/14/22,Bank of America Stadium,"Charlotte, North Carolina",United States,35.225823,-80.852873,Cfa,Charlotte FC,CF Montreal,6.61,7.27
-3787405,05/14/22,Yankee Stadium,New York City,United States,40.829686,-73.926203,Cfa,New York City FC,Columbus Crew,7.6,6.55
-3787457,05/14/22,BC Place Stadium,"Vancouver, British Columbia",Canada,49.276723,-123.112031,Cfb,Vancouver Whitecaps,San Jose Earthquakes,6.98,7.06
-3787390,05/14/22,Subaru Park,"Chester, Pennsylvania",United States,39.83268,-75.378817,Cfa,Philadelphia Union,New York Red Bulls,7.06,7.06
-3787391,05/14/22,Soldier Field,"Chicago, Illinois",United States,41.86231,-87.616675,Dfa,Chicago Fire FC,FC Cincinnati,6.52,7.16
-3787392,05/14/22,Lockhart Stadium,"Fort Lauderdale, Florida",United States,26.193091,-80.161035,Aw,Inter Miami CF,DC United,7.04,7.13
-3787393,05/14/22,BBVA Stadium,"Houston, Texas",United States,29.75224,-95.352179,Cfa,Houston Dynamo FC,Nashville SC,7.27,6.5
-3787394,05/14/22,Rio Tinto Stadium,"Sandy, Utah",United States,40.582817,-111.893585,BSk,Real Salt Lake,Austin FC,7.36,6.28
-3787395,05/14/22,Providence Park,"Portland, Oregon",United States,45.521411,-122.691751,Csb,Portland Timbers,Sporting Kansas City,7.7,5.62
-3787396,05/14/22,Dignity Health Sports Park,"Carson, California",United States,33.864336,-118.261079,BSk,LA Galaxy,FC Dallas,6.08,7.64
-3787397,05/15/22,Mercedes-Benz Stadium,"Atlanta, Georgia",United States,33.755406,-84.401075,Cfa,Atlanta United,New England Revolution,7.11,7.16
-3787398,05/15/22,Lumen Field,"Seattle, Washington",United States,47.595163,-122.331632,Csb,Seattle Sounders FC,Minnesota United,7.46,6.84
-3787399,05/18/22,Audi Field,"Washington, District of Columbia",United States,38.868802,-77.012888,Cfa,DC United,New York City FC,6.51,7.57
-3787400,05/18/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York Red Bulls,Chicago Fire FC,6.75,7.02
-3787401,05/18/22,Subaru Park,"Chester, Pennsylvania",United States,39.83268,-75.378817,Cfa,Philadelphia Union,Inter Miami CF,7.13,7.32
-3787402,05/18/22,Allianz Field,"Saint Paul, Minnesota",United States,44.953128,-93.164766,Dfa,Minnesota United,LA Galaxy,7.35,7.26
-3787403,05/18/22,BBVA Stadium,"Houston, Texas",United States,29.75224,-95.352179,Cfa,Houston Dynamo FC,Seattle Sounders FC,6.43,7.42
-3787459,05/18/22,GEODIS Park,"Nashville, Tennessee",United States,36.130239,-86.765556,Cfa,Nashville SC,CF Montreal,7.27,6.39
-3787404,05/18/22,Children's Mercy Park,"Kansas City, Kansas",United States,39.1216,-94.823191,Cfa,Sporting Kansas City,Colorado Rapids,6.91,6.46
-3787460,05/18/22,BC Place Stadium,"Vancouver, British Columbia",Canada,49.276723,-123.112031,Cfb,Vancouver Whitecaps,FC Dallas,7.11,6.68
-3787389,05/18/22,Banc of California Stadium,"Los Angeles, California",United States,34.012769,-118.284549,BSk,Los Angeles FC,Austin FC,6.65,7.65
-3787388,05/18/22,Earthquakes Stadium,"San Jose, California",United States,37.351179,-121.924619,Csb,San Jose Earthquakes,Portland Timbers,7.45,6.47
-3787378,05/21/22,Lower.com Field,"Columbus, Ohio",United States,39.968452,-83.017099,Cfa,Columbus Crew,Los Angeles FC,6.51,7.07
-3787377,05/21/22,TQL Stadium,"Cincinnati, Ohio",United States,39.111095,-84.522244,Cfa,FC Cincinnati,New England Revolution,6.38,7.26
-3787461,05/21/22,Audi Field,"Washington, District of Columbia",United States,38.868802,-77.012888,Cfa,DC United,Toronto FC,7.08,6.94
-3787376,05/21/22,GEODIS Park,"Nashville, Tennessee",United States,36.130239,-86.765556,Cfa,Nashville SC,Atlanta United,6.78,6.91
-3787462,05/22/22,Stade Saputo,"Montreal, Quebec",Canada,45.563072,-73.552684,Dfb,CF Montreal,Real Salt Lake,6.52,7.3
-3787463,05/22/22,Bank of America Stadium,"Charlotte, North Carolina",United States,35.225823,-80.852873,Cfa,Charlotte FC,Vancouver Whitecaps,6.84,6.54
-3787375,05/22/22,Citi Field,"New York, New York",United States,40.757205,-73.845828,Cfa,New York City FC,Chicago Fire FC,7.47,6.58
-3787374,05/22/22,Lockhart Stadium,"Fort Lauderdale, Florida",United States,26.193091,-80.161035,Aw,Inter Miami CF,New York Red Bulls,7.78,6.55
-3787373,05/22/22,Toyota Stadium,"Frisco, Texas",United States,33.154336,-96.835143,Cfa,FC Dallas,Minnesota United,6.82,7.16
-3787372,05/22/22,Earthquakes Stadium,"San Jose, California",United States,37.351179,-121.924619,Csb,San Jose Earthquakes,Sporting Kansas City,7.16,7.13
-3787379,05/22/22,Q2 Stadium,"Austin, Texas",United States,30.387727,-97.719505,Cfa,Austin FC,Orlando City,6.69,7.03
-3787380,05/22/22,Dick's Sporting Goods Park,"Denver, Colorado",United States,39.805676,-104.891807,Dfc,Colorado Rapids,Seattle Sounders FC,7.2,6.48
-3787381,05/22/22,Dignity Health Sports Park,"Carson, California",United States,33.864336,-118.261079,BSk,LA Galaxy,Houston Dynamo FC,6.34,7.68
-3787382,05/22/22,Providence Park,"Portland, Oregon",United States,45.521411,-122.691751,Csb,Portland Timbers,Philadelphia Union,6.57,7.72
-3787383,05/28/22,Banc of California Stadium,"Los Angeles, California",United States,34.012769,-118.284549,BSk,Los Angeles FC,San Jose Earthquakes,7.39,6.67
-3787384,05/28/22,Mercedes-Benz Stadium,"Atlanta, Georgia",United States,33.755406,-84.401075,Cfa,Atlanta United,Columbus Crew,6.64,7.42
-3787385,05/28/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York Red Bulls,DC United,7.44,6.16
-3787464,05/28/22,BMO Field,"Toronto, Ontario",Canada,43.633206,-79.418557,Dfb,Toronto FC,Chicago Fire FC,7.09,7.39
-3787465,05/28/22,Stade Saputo,"Montreal, Quebec",Canada,45.563072,-73.552684,Dfb,CF Montreal,FC Cincinnati,7.15,6.44
-3787386,05/28/22,Gillette Stadium,"Foxborough, Massachusetts",United States,42.091296,-71.264046,Dfb,New England Revolution,Philadelphia Union,6.89,6.78
-3787387,05/28/22,Exploria Stadium,"Orlando, Florida",United States,28.541118,-81.389311,Cfa,Orlando City,FC Dallas,6.32,7.39
-3787406,05/28/22,Lockhart Stadium,"Fort Lauderdale, Florida",United States,26.193091,-80.161035,Aw,Inter Miami CF,Portland Timbers,7.18,6.68
-3787407,05/28/22,Allianz Field,"Saint Paul, Minnesota",United States,44.953128,-93.164766,Dfa,Minnesota United,New York City FC,6.68,7.57
-3787408,05/28/22,Dick's Sporting Goods Park,"Denver, Colorado",United States,39.805676,-104.891807,Dfc,Colorado Rapids,Nashville SC,6.63,7.32
-3787466,05/28/22,Children's Mercy Park,"Kansas City, Kansas",United States,39.1216,-94.823191,Cfa,Sporting Kansas City,Vancouver Whitecaps,6.73,7.12
-3787450,05/28/22,Rio Tinto Stadium,"Sandy, Utah",United States,40.582817,-111.893585,BSk,Real Salt Lake,Houston Dynamo FC,7.85,6.12
-3787438,05/29/22,Dignity Health Sports Park,"Carson, California",United States,33.864336,-118.261079,BSk,LA Galaxy,Austin FC,7.41,6.21
-3787437,05/29/22,Lumen Field,"Seattle, Washington",United States,47.595163,-122.331632,Csb,Seattle Sounders FC,Charlotte FC,7.62,6.46
-3787467,06/04/22,BC Place Stadium,"Vancouver, British Columbia",Canada,49.276723,-123.112031,Cfb,Vancouver Whitecaps,Real Salt Lake,6.95,6.67
-3787436,06/11/22,Bank of America Stadium,"Charlotte, North Carolina",United States,35.225823,-80.852873,Cfa,Charlotte FC,New York Red Bulls,7.61,6.45
-3787435,06/11/22,GEODIS Park,"Nashville, Tennessee",United States,36.130239,-86.765556,Cfa,Nashville SC,San Jose Earthquakes,7.31,7.25
-3787434,06/12/22,Children's Mercy Park,"Kansas City, Kansas",United States,39.1216,-94.823191,Cfa,Sporting Kansas City,New England Revolution,6.33,7.19
-3787486,06/14/22,Lumen Field,"Seattle, Washington",United States,47.595163,-122.331632,Csb,Seattle Sounders FC,Vancouver Whitecaps,7.82,6.08
-3787428,06/15/22,Gillette Stadium,"Foxborough, Massachusetts",United States,42.091296,-71.264046,Dfb,New England Revolution,Orlando City,7.07,7.1
-3787433,06/18/22,Lumen Field,"Seattle, Washington",United States,47.595163,-122.331632,Csb,Seattle Sounders FC,Los Angeles FC,7.12,6.84
-3787432,06/18/22,Dignity Health Sports Park,"Carson, California",United States,33.864336,-118.261079,BSk,LA Galaxy,Portland Timbers,6.96,7.29
-3787468,06/18/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York Red Bulls,Toronto FC,7.77,6.54
-3787469,06/18/22,Stade Saputo,"Montreal, Quebec",Canada,45.563072,-73.552684,Dfb,CF Montreal,Austin FC,6.73,7.13
-3787431,06/18/22,Lower.com Field,"Columbus, Ohio",United States,39.968452,-83.017099,Cfa,Columbus Crew,Charlotte FC,6.99,6.87
-3787440,06/18/22,Exploria Stadium,"Orlando, Florida",United States,28.541118,-81.389311,Cfa,Orlando City,Houston Dynamo FC,7.57,6.58
-3787441,06/18/22,Subaru Park,"Chester, Pennsylvania",United States,39.83268,-75.378817,Cfa,Philadelphia Union,FC Cincinnati,7.14,7.23
-3787449,06/18/22,Soldier Field,"Chicago, Illinois",United States,41.86231,-87.616675,Dfa,Chicago Fire FC,DC United,7.39,6.74
-3787470,06/18/22,Toyota Stadium,"Frisco, Texas",United States,33.154336,-96.835143,Cfa,FC Dallas,Vancouver Whitecaps,6.48,7.29
-3787448,06/18/22,Rio Tinto Stadium,"Sandy, Utah",United States,40.582817,-111.893585,BSk,Real Salt Lake,San Jose Earthquakes,7.25,6.42
-3787447,06/19/22,Mercedes-Benz Stadium,"Atlanta, Georgia",United States,33.755406,-84.401075,Cfa,Atlanta United,Inter Miami CF,7.85,6.25
-3787439,06/19/22,Gillette Stadium,"Foxborough, Massachusetts",United States,42.091296,-71.264046,Dfb,New England Revolution,Minnesota United,7.46,6.49
-3787446,06/19/22,Yankee Stadium,New York City,United States,40.829686,-73.926203,Cfa,New York City FC,Colorado Rapids,7.0,6.94
-3787445,06/19/22,GEODIS Park,"Nashville, Tennessee",United States,36.130239,-86.765556,Cfa,Nashville SC,Sporting Kansas City,6.46,7.11
-3787444,06/24/22,TQL Stadium,"Cincinnati, Ohio",United States,39.111095,-84.522244,Cfa,FC Cincinnati,Orlando City,7.08,6.99
-3787443,06/25/22,Lumen Field,"Seattle, Washington",United States,47.595163,-122.331632,Csb,Seattle Sounders FC,Sporting Kansas City,7.64,6.34
-3787442,06/25/22,Audi Field,"Washington, District of Columbia",United States,38.868802,-77.012888,Cfa,DC United,Nashville SC,6.04,7.47
-3787488,06/25/22,Stade Saputo,"Montreal, Quebec",Canada,45.563072,-73.552684,Dfb,CF Montreal,Charlotte FC,7.11,6.29
-3787489,06/25/22,BMO Field,"Toronto, Ontario",Canada,43.633206,-79.418557,Dfb,Toronto FC,Atlanta United,7.27,6.74
-3787430,06/25/22,BBVA Stadium,"Houston, Texas",United States,29.75224,-95.352179,Cfa,Houston Dynamo FC,Chicago Fire FC,7.59,6.51
-3787429,06/25/22,Lockhart Stadium,"Fort Lauderdale, Florida",United States,26.193091,-80.161035,Aw,Inter Miami CF,Minnesota United,7.06,6.51
-3787417,06/25/22,Q2 Stadium,"Austin, Texas",United States,30.387727,-97.719505,Cfa,Austin FC,FC Dallas,6.82,6.81
-3787416,06/25/22,Rio Tinto Stadium,"Sandy, Utah",United States,40.582817,-111.893585,BSk,Real Salt Lake,Columbus Crew,6.98,6.99
-3787414,06/25/22,Providence Park,"Portland, Oregon",United States,45.521411,-122.691751,Csb,Portland Timbers,Colorado Rapids,7.7,6.49
-3787413,06/26/22,Banc of California Stadium,"Los Angeles, California",United States,34.012769,-118.284549,BSk,Los Angeles FC,New York Red Bulls,7.65,6.65
-3787412,06/26/22,Subaru Park,"Chester, Pennsylvania",United States,39.83268,-75.378817,Cfa,Philadelphia Union,New York City FC,7.39,6.83
-3787504,06/26/22,BC Place Stadium,"Vancouver, British Columbia",Canada,49.276723,-123.112031,Cfb,Vancouver Whitecaps,New England Revolution,6.97,7.02
-3787411,06/29/22,TQL Stadium,"Cincinnati, Ohio",United States,39.111095,-84.522244,Cfa,FC Cincinnati,New York City FC,7.43,6.59
-3787503,06/29/22,BMO Field,"Toronto, Ontario",Canada,43.633206,-79.418557,Dfb,Toronto FC,Columbus Crew,6.92,7.7
-3787410,06/29/22,Soldier Field,"Chicago, Illinois",United States,41.86231,-87.616675,Dfa,Chicago Fire FC,Philadelphia Union,7.35,6.73
-3787502,06/29/22,Lumen Field,"Seattle, Washington",United States,47.595163,-122.331632,Csb,Seattle Sounders FC,CF Montreal,6.55,7.38
-3787561,06/29/22,Dignity Health Sports Park,"Carson, California",United States,33.864336,-118.261079,BSk,LA Galaxy,Minnesota United,6.17,7.4
-3787418,06/29/22,Banc of California Stadium,"Los Angeles, California",United States,34.012769,-118.284549,BSk,Los Angeles FC,FC Dallas,7.71,6.52
-3787419,06/29/22,Providence Park,"Portland, Oregon",United States,45.521411,-122.691751,Csb,Portland Timbers,Houston Dynamo FC,7.13,7.16
-3787420,06/30/22,Bank of America Stadium,"Charlotte, North Carolina",United States,35.225823,-80.852873,Cfa,Charlotte FC,Austin FC,6.85,7.05
-3787427,06/30/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York Red Bulls,Atlanta United,7.34,6.54
-3787501,07/02/22,BMO Field,"Toronto, Ontario",Canada,43.633206,-79.418557,Dfb,Toronto FC,Seattle Sounders FC,6.67,7.64
-3787664,07/02/22,BC Place Stadium,"Vancouver, British Columbia",Canada,49.276723,-123.112031,Cfb,Vancouver Whitecaps,Los Angeles FC,7.09,6.71
-3787499,07/03/22,Yankee Stadium,New York City,United States,40.829686,-73.926203,Cfa,New York City FC,Atlanta United,7.11,7.12
-3787498,07/03/22,Lower.com Field,"Columbus, Ohio",United States,39.968452,-83.017099,Cfa,Columbus Crew,Philadelphia Union,7.05,6.74
-3787497,07/03/22,Gillette Stadium,"Foxborough, Massachusetts",United States,42.091296,-71.264046,Dfb,New England Revolution,FC Cincinnati,7.0,6.95
-3787500,07/03/22,Allianz Field,"Saint Paul, Minnesota",United States,44.953128,-93.164766,Dfa,Minnesota United,Real Salt Lake,7.16,6.57
-3787496,07/03/22,Children's Mercy Park,"Kansas City, Kansas",United States,39.1216,-94.823191,Cfa,Sporting Kansas City,New York Red Bulls,6.73,7.15
-3787495,07/03/22,BBVA Stadium,"Houston, Texas",United States,29.75224,-95.352179,Cfa,Houston Dynamo FC,Charlotte FC,6.48,7.15
-3787494,07/03/22,GEODIS Park,"Nashville, Tennessee",United States,36.130239,-86.765556,Cfa,Nashville SC,Portland Timbers,7.23,6.94
-3787493,07/03/22,Earthquakes Stadium,"San Jose, California",United States,37.351179,-121.924619,Csb,San Jose Earthquakes,Chicago Fire FC,7.58,6.6
-3787492,07/04/22,Exploria Stadium,"Orlando, Florida",United States,28.541118,-81.389311,Cfa,Orlando City,DC United,6.34,7.42
-3787491,07/04/22,Dick's Sporting Goods Park,"Denver, Colorado",United States,39.805676,-104.891807,Dfc,Colorado Rapids,Austin FC,6.32,6.99
-3787490,07/04/22,Toyota Stadium,"Frisco, Texas",United States,33.154336,-96.835143,Cfa,FC Dallas,Inter Miami CF,7.06,6.87
-3787665,07/04/22,Dignity Health Sports Park,"Carson, California",United States,33.864336,-118.261079,BSk,LA Galaxy,CF Montreal,7.77,6.74
-3787505,07/08/22,Subaru Park,"Chester, Pennsylvania",United States,39.83268,-75.378817,Cfa,Philadelphia Union,DC United,8.26,5.83
-3787506,07/08/22,Banc of California Stadium,"Los Angeles, California",United States,34.012769,-118.284549,BSk,Los Angeles FC,LA Galaxy,7.44,6.83
-3787666,07/08/22,BC Place Stadium,"Vancouver, British Columbia",Canada,49.276723,-123.112031,Cfb,Vancouver Whitecaps,Minnesota United,6.73,7.39
-3787519,07/09/22,Yankee Stadium,New York City,United States,40.829686,-73.926203,Cfa,New York City FC,New England Revolution,7.27,6.82
-3787520,07/09/22,Lumen Field,"Seattle, Washington",United States,47.595163,-122.331632,Csb,Seattle Sounders FC,Portland Timbers,6.64,7.65
-3787521,07/09/22,Mercedes-Benz Stadium,"Atlanta, Georgia",United States,33.755406,-84.401075,Cfa,Atlanta United,Austin FC,6.21,7.4
-3787667,07/09/22,Stade Saputo,"Montreal, Quebec",Canada,45.563072,-73.552684,Dfb,CF Montreal,Sporting Kansas City,6.8,7.2
-3787522,07/09/22,Bank of America Stadium,"Charlotte, North Carolina",United States,35.225823,-80.852873,Cfa,Charlotte FC,Nashville SC,7.56,6.57
-3787668,07/09/22,BMO Field,"Toronto, Ontario",Canada,43.633206,-79.418557,Dfb,Toronto FC,San Jose Earthquakes,6.98,7.05
-3787523,07/09/22,TQL Stadium,"Cincinnati, Ohio",United States,39.111095,-84.522244,Cfa,FC Cincinnati,New York Red Bulls,6.57,7.01
-3787524,07/09/22,Exploria Stadium,"Orlando, Florida",United States,28.541118,-81.389311,Cfa,Orlando City,Inter Miami CF,7.23,6.56
-3787525,07/09/22,Soldier Field,"Chicago, Illinois",United States,41.86231,-87.616675,Dfa,Chicago Fire FC,Columbus Crew,6.33,6.87
-3787526,07/09/22,BBVA Stadium,"Houston, Texas",United States,29.75224,-95.352179,Cfa,Houston Dynamo FC,FC Dallas,6.9,7.03
-3787527,07/09/22,Rio Tinto Stadium,"Sandy, Utah",United States,40.582817,-111.893585,BSk,Real Salt Lake,Colorado Rapids,6.84,6.72
-3787528,07/12/22,Q2 Stadium,"Austin, Texas",United States,30.387727,-97.719505,Cfa,Austin FC,Houston Dynamo FC,7.25,6.21
-3787518,07/13/22,Mercedes-Benz Stadium,"Atlanta, Georgia",United States,33.755406,-84.401075,Cfa,Atlanta United,Real Salt Lake,7.62,6.46
-3787669,07/13/22,Soldier Field,"Chicago, Illinois",United States,41.86231,-87.616675,Dfa,Chicago Fire FC,Toronto FC,7.6,6.25
-3787517,07/13/22,Audi Field,"Washington, District of Columbia",United States,38.868802,-77.012888,Cfa,DC United,Columbus Crew,6.87,6.58
-3787670,07/13/22,TQL Stadium,"Cincinnati, Ohio",United States,39.111095,-84.522244,Cfa,FC Cincinnati,Vancouver Whitecaps,7.2,6.82
-3787507,07/13/22,Lockhart Stadium,"Fort Lauderdale, Florida",United States,26.193091,-80.161035,Aw,Inter Miami CF,Philadelphia Union,6.62,7.35
-3787508,07/13/22,Allianz Field,"Saint Paul, Minnesota",United States,44.953128,-93.164766,Dfa,Minnesota United,Sporting Kansas City,6.97,7.14
-3787509,07/13/22,GEODIS Park,"Nashville, Tennessee",United States,36.130239,-86.765556,Cfa,Nashville SC,Seattle Sounders FC,7.38,6.69
-3787510,07/13/22,Dick's Sporting Goods Park,"Denver, Colorado",United States,39.805676,-104.891807,Dfc,Colorado Rapids,Orlando City,6.85,7.1
-3787511,07/13/22,Toyota Stadium,"Frisco, Texas",United States,33.154336,-96.835143,Cfa,FC Dallas,New York City FC,6.51,7.28
-3787512,07/13/22,Dignity Health Sports Park,"Carson, California",United States,33.864336,-118.261079,BSk,LA Galaxy,San Jose Earthquakes,6.76,7.56
-3787671,07/16/22,Stade Saputo,"Montreal, Quebec",Canada,45.563072,-73.552684,Dfb,CF Montreal,Toronto FC,7.16,6.65
-3787513,07/16/22,Subaru Park,"Chester, Pennsylvania",United States,39.83268,-75.378817,Cfa,Philadelphia Union,New England Revolution,7.37,7.11
-3787514,07/16/22,Soldier Field,"Chicago, Illinois",United States,41.86231,-87.616675,Dfa,Chicago Fire FC,Seattle Sounders FC,7.37,6.8
-3787515,07/16/22,Lockhart Stadium,"Fort Lauderdale, Florida",United States,26.193091,-80.161035,Aw,Inter Miami CF,Charlotte FC,7.24,6.72
-3787516,07/16/22,Allianz Field,"Saint Paul, Minnesota",United States,44.953128,-93.164766,Dfa,Minnesota United,DC United,7.5,6.3
-3787529,07/16/22,Dick's Sporting Goods Park,"Denver, Colorado",United States,39.805676,-104.891807,Dfc,Colorado Rapids,LA Galaxy,7.57,6.16
-3787530,07/16/22,Toyota Stadium,"Frisco, Texas",United States,33.154336,-96.835143,Cfa,FC Dallas,Austin FC,7.34,7.2
-3787544,07/17/22,Mercedes-Benz Stadium,"Atlanta, Georgia",United States,33.755406,-84.401075,Cfa,Atlanta United,Orlando City,6.99,6.88
-3787545,07/17/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York Red Bulls,New York City FC,6.64,7.75
-3787546,07/17/22,Lower.com Field,"Columbus, Ohio",United States,39.968452,-83.017099,Cfa,Columbus Crew,FC Cincinnati,7.55,6.5
-3787547,07/17/22,GEODIS Park,"Nashville, Tennessee",United States,36.130239,-86.765556,Cfa,Nashville SC,Los Angeles FC,6.54,7.29
-3787548,07/17/22,Rio Tinto Stadium,"Sandy, Utah",United States,40.582817,-111.893585,BSk,Real Salt Lake,Sporting Kansas City,7.58,6.18
-3787549,07/17/22,Earthquakes Stadium,"San Jose, California",United States,37.351179,-121.924619,Csb,San Jose Earthquakes,Houston Dynamo FC,6.63,7.6
-3787672,07/17/22,Providence Park,"Portland, Oregon",United States,45.521411,-122.691751,Csb,Portland Timbers,Vancouver Whitecaps,7.08,7.1
-3787550,07/23/22,Yankee Stadium,New York City,United States,40.829686,-73.926203,Cfa,New York City FC,Inter Miami CF,7.35,6.66
-3787552,07/23/22,Lower.com Field,"Columbus, Ohio",United States,39.968452,-83.017099,Cfa,Columbus Crew,New England Revolution,7.08,7.08
-3787551,07/23/22,TQL Stadium,"Cincinnati, Ohio",United States,39.111095,-84.522244,Cfa,FC Cincinnati,Nashville SC,7.15,6.98
-3787553,07/23/22,Exploria Stadium,"Orlando, Florida",United States,28.541118,-81.389311,Cfa,Orlando City,Philadelphia Union,6.72,7.27
-3787673,07/23/22,BMO Field,"Toronto, Ontario",Canada,43.633206,-79.418557,Dfb,Toronto FC,Charlotte FC,7.77,5.77
-3787656,07/23/22,Audi Field,"Washington, District of Columbia",United States,38.868802,-77.012888,Cfa,DC United,CF Montreal,6.33,7.4
-3787554,07/23/22,BBVA Stadium,"Houston, Texas",United States,29.75224,-95.352179,Cfa,Houston Dynamo FC,Minnesota United,6.98,7.2
-3787543,07/23/22,Children's Mercy Park,"Kansas City, Kansas",United States,39.1216,-94.823191,Cfa,Sporting Kansas City,Los Angeles FC,6.35,7.5
-3787542,07/23/22,Rio Tinto Stadium,"Sandy, Utah",United States,40.582817,-111.893585,BSk,Real Salt Lake,FC Dallas,7.03,7.11
-3787531,07/23/22,Lumen Field,"Seattle, Washington",United States,47.595163,-122.331632,Csb,Seattle Sounders FC,Colorado Rapids,7.48,6.75
-3787704,07/23/22,BC Place Stadium,"Vancouver, British Columbia",Canada,49.276723,-123.112031,Cfb,Vancouver Whitecaps,Chicago Fire FC,6.23,7.66
-3787532,07/23/22,Providence Park,"Portland, Oregon",United States,45.521411,-122.691751,Csb,Portland Timbers,San Jose Earthquakes,7.47,6.58
-3787533,07/24/22,Q2 Stadium,"Austin, Texas",United States,30.387727,-97.719505,Cfa,Austin FC,New York Red Bulls,6.38,6.76
-3787534,07/24/22,Dignity Health Sports Park,"Carson, California",United States,33.864336,-118.261079,BSk,LA Galaxy,Atlanta United,7.42,6.49
-3787535,07/29/22,Banc of California Stadium,"Los Angeles, California",United States,34.012769,-118.284549,BSk,Los Angeles FC,Seattle Sounders FC,7.31,6.52
-3787537,07/30/22,Allianz Field,"Saint Paul, Minnesota",United States,44.953128,-93.164766,Dfa,Minnesota United,Portland Timbers,6.75,6.79
-3787538,07/30/22,Soldier Field,"Chicago, Illinois",United States,41.86231,-87.616675,Dfa,Chicago Fire FC,Atlanta United,7.0,6.78
-3787703,07/30/22,Stade Saputo,"Montreal, Quebec",Canada,45.563072,-73.552684,Dfb,CF Montreal,New York City FC,6.97,6.77
-3787541,07/30/22,Subaru Park,"Chester, Pennsylvania",United States,39.83268,-75.378817,Cfa,Philadelphia Union,Houston Dynamo FC,7.97,5.84
-3787555,07/30/22,Lockhart Stadium,"Fort Lauderdale, Florida",United States,26.193091,-80.161035,Aw,Inter Miami CF,FC Cincinnati,6.65,7.24
-3787702,07/30/22,GEODIS Park,"Nashville, Tennessee",United States,36.130239,-86.765556,Cfa,Nashville SC,Vancouver Whitecaps,7.13,7.05
-3787701,07/30/22,Gillette Stadium,"Foxborough, Massachusetts",United States,42.091296,-71.264046,Dfb,New England Revolution,Toronto FC,6.97,7.03
-3787556,07/30/22,Children's Mercy Park,"Kansas City, Kansas",United States,39.1216,-94.823191,Cfa,Sporting Kansas City,Austin FC,6.07,7.39
-3787565,07/30/22,Toyota Stadium,"Frisco, Texas",United States,33.154336,-96.835143,Cfa,FC Dallas,LA Galaxy,7.42,6.88
-3787536,07/30/22,Earthquakes Stadium,"San Jose, California",United States,37.351179,-121.924619,Csb,San Jose Earthquakes,Real Salt Lake,7.02,6.98
-3787564,07/31/22,Audi Field,"Washington, District of Columbia",United States,38.868802,-77.012888,Cfa,DC United,Orlando City,7.12,6.86
-3787540,08/02/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York Red Bulls,Colorado Rapids,6.48,7.06
-3787563,08/02/22,Lumen Field,"Seattle, Washington",United States,47.595163,-122.331632,Csb,Seattle Sounders FC,FC Dallas,7.61,6.58
-3787562,08/03/22,Bank of America Stadium,"Charlotte, North Carolina",United States,35.225823,-80.852873,Cfa,Charlotte FC,DC United,7.54,6.18
-3787700,08/03/22,Lower.com Field,"Columbus, Ohio",United States,39.968452,-83.017099,Cfa,Columbus Crew,CF Montreal,6.78,7.06
-3787560,08/03/22,Providence Park,"Portland, Oregon",United States,45.521411,-122.691751,Csb,Portland Timbers,Nashville SC,7.13,7.13
-3787559,08/03/22,Earthquakes Stadium,"San Jose, California",United States,37.351179,-121.924619,Csb,San Jose Earthquakes,Inter Miami CF,6.96,7.26
-3787699,08/05/22,BC Place Stadium,"Vancouver, British Columbia",Canada,49.276723,-123.112031,Cfb,Vancouver Whitecaps,Houston Dynamo FC,7.07,6.74
-3787558,08/06/22,Mercedes-Benz Stadium,"Atlanta, Georgia",United States,33.755406,-84.401075,Cfa,Atlanta United,Seattle Sounders FC,7.16,6.43
-3787557,08/06/22,Bank of America Stadium,"Charlotte, North Carolina",United States,35.225823,-80.852873,Cfa,Charlotte FC,Chicago Fire FC,6.44,7.36
-3787698,08/06/22,Stade Saputo,"Montreal, Quebec",Canada,45.563072,-73.552684,Dfb,CF Montreal,Inter Miami CF,7.09,7.06
-3787567,08/06/22,Lower.com Field,"Columbus, Ohio",United States,39.968452,-83.017099,Cfa,Columbus Crew,New York City FC,7.46,6.33
-3787588,08/06/22,Audi Field,"Washington, District of Columbia",United States,38.868802,-77.012888,Cfa,DC United,New York Red Bulls,6.79,7.05
-3787566,08/06/22,TQL Stadium,"Cincinnati, Ohio",United States,39.111095,-84.522244,Cfa,FC Cincinnati,Philadelphia Union,7.5,6.32
-3787589,08/06/22,Exploria Stadium,"Orlando, Florida",United States,28.541118,-81.389311,Cfa,Orlando City,New England Revolution,6.3,7.45
-3787697,08/06/22,GEODIS Park,"Nashville, Tennessee",United States,36.130239,-86.765556,Cfa,Nashville SC,Toronto FC,6.89,7.46
-3787590,08/06/22,Children's Mercy Park,"Kansas City, Kansas",United States,39.1216,-94.823191,Cfa,Sporting Kansas City,LA Galaxy,7.43,6.36
-3787591,08/06/22,Q2 Stadium,"Austin, Texas",United States,30.387727,-97.719505,Cfa,Austin FC,San Jose Earthquakes,6.91,6.97
-3787592,08/06/22,Dick's Sporting Goods Park,"Denver, Colorado",United States,39.805676,-104.891807,Dfc,Colorado Rapids,Minnesota United,6.99,6.27
-3787593,08/06/22,Rio Tinto Stadium,"Sandy, Utah",United States,40.582817,-111.893585,BSk,Real Salt Lake,Los Angeles FC,6.3,7.4
-3787594,08/06/22,Providence Park,"Portland, Oregon",United States,45.521411,-122.691751,Csb,Portland Timbers,FC Dallas,6.92,7.21
-3787595,08/13/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York Red Bulls,Orlando City,6.7,7.19
-3787596,08/13/22,TQL Stadium,"Cincinnati, Ohio",United States,39.111095,-84.522244,Cfa,FC Cincinnati,Atlanta United,7.22,7.25
-3787597,08/13/22,Gillette Stadium,"Foxborough, Massachusetts",United States,42.091296,-71.264046,Dfb,New England Revolution,DC United,7.51,6.42
-3787598,08/13/22,Subaru Park,"Chester, Pennsylvania",United States,39.83268,-75.378817,Cfa,Philadelphia Union,Chicago Fire FC,7.62,6.01
-3787696,08/13/22,BMO Field,"Toronto, Ontario",Canada,43.633206,-79.418557,Dfb,Toronto FC,Portland Timbers,7.77,6.7
-3787599,08/13/22,Lockhart Stadium,"Fort Lauderdale, Florida",United States,26.193091,-80.161035,Aw,Inter Miami CF,New York City FC,7.41,6.56
-3787600,08/13/22,Q2 Stadium,"Austin, Texas",United States,30.387727,-97.719505,Cfa,Austin FC,Sporting Kansas City,6.82,6.63
-3787601,08/13/22,Dick's Sporting Goods Park,"Denver, Colorado",United States,39.805676,-104.891807,Dfc,Colorado Rapids,Columbus Crew,6.86,7.18
-3787602,08/13/22,Toyota Stadium,"Frisco, Texas",United States,33.154336,-96.835143,Cfa,FC Dallas,San Jose Earthquakes,7.63,6.11
-3787695,08/13/22,BBVA Stadium,"Houston, Texas",United States,29.75224,-95.352179,Cfa,Houston Dynamo FC,CF Montreal,6.64,7.41
-3787705,08/13/22,Dignity Health Sports Park,"Carson, California",United States,33.864336,-118.261079,BSk,LA Galaxy,Vancouver Whitecaps,7.63,6.42
-3787603,08/13/22,Banc of California Stadium,"Los Angeles, California",United States,34.012769,-118.284549,BSk,Los Angeles FC,Charlotte FC,7.94,5.53
-3787604,08/14/22,GEODIS Park,"Nashville, Tennessee",United States,36.130239,-86.765556,Cfa,Nashville SC,Minnesota United,7.04,7.17
-3787587,08/14/22,Lumen Field,"Seattle, Washington",United States,47.595163,-122.331632,Csb,Seattle Sounders FC,Real Salt Lake,6.65,7.25
-3787569,08/16/22,Banc of California Stadium,"Los Angeles, California",United States,34.012769,-118.284549,BSk,Los Angeles FC,DC United,7.56,6.62
-3787585,08/17/22,Mercedes-Benz Stadium,"Atlanta, Georgia",United States,33.755406,-84.401075,Cfa,Atlanta United,New York Red Bulls,6.77,7.52
-3787721,08/17/22,BMO Field,"Toronto, Ontario",Canada,43.633206,-79.418557,Dfb,Toronto FC,New England Revolution,7.2,6.96
-3787586,08/17/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York City FC,Charlotte FC,6.71,7.39
-3787568,08/17/22,Toyota Stadium,"Frisco, Texas",United States,33.154336,-96.835143,Cfa,FC Dallas,Philadelphia Union,7.48,6.74
-3787722,08/17/22,BC Place Stadium,"Vancouver, British Columbia",Canada,49.276723,-123.112031,Cfb,Vancouver Whitecaps,Colorado Rapids,7.12,6.6
-3787570,08/19/22,Dignity Health Sports Park,"Carson, California",United States,33.864336,-118.261079,BSk,LA Galaxy,Seattle Sounders FC,6.83,7.23
-3787571,08/20/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York Red Bulls,FC Cincinnati,7.1,7.0
-3787723,08/20/22,Stade Saputo,"Montreal, Quebec",Canada,45.563072,-73.552684,Dfb,CF Montreal,New England Revolution,7.85,6.47
-3787572,08/20/22,Audi Field,"Washington, District of Columbia",United States,38.868802,-77.012888,Cfa,DC United,Philadelphia Union,5.94,7.98
-3787724,08/20/22,Lockhart Stadium,"Fort Lauderdale, Florida",United States,26.193091,-80.161035,Aw,Inter Miami CF,Toronto FC,7.22,6.79
-3787573,08/20/22,Allianz Field,"Saint Paul, Minnesota",United States,44.953128,-93.164766,Dfa,Minnesota United,Austin FC,7.52,6.55
-3787574,08/20/22,Dick's Sporting Goods Park,"Denver, Colorado",United States,39.805676,-104.891807,Dfc,Colorado Rapids,Houston Dynamo FC,7.04,6.84
-3787725,08/20/22,Rio Tinto Stadium,"Sandy, Utah",United States,40.582817,-111.893585,BSk,Real Salt Lake,Vancouver Whitecaps,7.18,7.14
-3787575,08/20/22,Earthquakes Stadium,"San Jose, California",United States,37.351179,-121.924619,Csb,San Jose Earthquakes,Los Angeles FC,7.29,6.77
-3787577,08/21/22,Lower.com Field,"Columbus, Ohio",United States,39.968452,-83.017099,Cfa,Columbus Crew,Atlanta United,7.08,6.99
-3787576,08/21/22,SeatGeek Stadium,"Bridgeview, Illinois",United States,41.764814,-87.806141,Dfa,Chicago Fire FC,New York City FC,6.24,7.49
-3787578,08/21/22,Bank of America Stadium,"Charlotte, North Carolina",United States,35.225823,-80.852873,Cfa,Charlotte FC,Orlando City,6.48,7.43
-3787579,08/21/22,Children's Mercy Park,"Kansas City, Kansas",United States,39.1216,-94.823191,Cfa,Sporting Kansas City,Portland Timbers,7.66,6.31
-3787580,08/21/22,GEODIS Park,"Nashville, Tennessee",United States,36.130239,-86.765556,Cfa,Nashville SC,FC Dallas,7.58,5.96
-3787581,08/26/22,Q2 Stadium,"Austin, Texas",United States,30.387727,-97.719505,Cfa,Austin FC,Los Angeles FC,7.62,6.06
-3787582,08/26/22,Providence Park,"Portland, Oregon",United States,45.521411,-122.691751,Csb,Portland Timbers,Seattle Sounders FC,7.48,6.9
-3787583,08/27/22,Allianz Field,"Saint Paul, Minnesota",United States,44.953128,-93.164766,Dfa,Minnesota United,Houston Dynamo FC,7.21,6.62
-3787728,08/27/22,Bank of America Stadium,"Charlotte, North Carolina",United States,35.225823,-80.852873,Cfa,Charlotte FC,Toronto FC,6.55,7.46
-3787584,08/27/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York Red Bulls,Inter Miami CF,7.4,6.05
-3787605,08/27/22,TQL Stadium,"Cincinnati, Ohio",United States,39.111095,-84.522244,Cfa,FC Cincinnati,Columbus Crew,6.84,6.96
-3787606,08/27/22,Subaru Park,"Chester, Pennsylvania",United States,39.83268,-75.378817,Cfa,Philadelphia Union,Colorado Rapids,7.91,5.85
-3787727,08/27/22,Soldier Field,"Chicago, Illinois",United States,41.86231,-87.616675,Dfa,Chicago Fire FC,CF Montreal,6.37,7.39
-3787607,08/27/22,Children's Mercy Park,"Kansas City, Kansas",United States,39.1216,-94.823191,Cfa,Sporting Kansas City,San Jose Earthquakes,7.52,6.63
-3787608,08/27/22,Toyota Stadium,"Frisco, Texas",United States,33.154336,-96.835143,Cfa,FC Dallas,Real Salt Lake,6.94,7.0
-3787726,08/27/22,BC Place Stadium,"Vancouver, British Columbia",Canada,49.276723,-123.112031,Cfb,Vancouver Whitecaps,Nashville SC,6.36,7.58
-3787609,08/28/22,Mercedes-Benz Stadium,"Atlanta, Georgia",United States,33.755406,-84.401075,Cfa,Atlanta United,DC United,7.54,6.46
-3787655,08/28/22,Exploria Stadium,"Orlando, Florida",United States,28.541118,-81.389311,Cfa,Orlando City,New York City FC,7.1,6.58
-3787642,08/28/22,Gillette Stadium,"Foxborough, Massachusetts",United States,42.091296,-71.264046,Dfb,New England Revolution,LA Galaxy,6.96,7.45
-3787638,08/31/22,Subaru Park,"Chester, Pennsylvania",United States,39.83268,-75.378817,Cfa,Philadelphia Union,Atlanta United,7.52,6.49
-3787729,08/31/22,Stade Saputo,"Montreal, Quebec",Canada,45.563072,-73.552684,Dfb,CF Montreal,New York Red Bulls,6.73,7.41
-3787641,08/31/22,Lower.com Field,"Columbus, Ohio",United States,39.968452,-83.017099,Cfa,Columbus Crew,Inter Miami CF,7.51,6.43
-3787640,08/31/22,Gillette Stadium,"Foxborough, Massachusetts",United States,42.091296,-71.264046,Dfb,New England Revolution,Chicago Fire FC,7.24,7.24
-3787639,08/31/22,Exploria Stadium,"Orlando, Florida",United States,28.541118,-81.389311,Cfa,Orlando City,Seattle Sounders FC,6.94,6.72
-3787730,08/31/22,BMO Field,"Toronto, Ontario",Canada,43.633206,-79.418557,Dfb,Toronto FC,LA Galaxy,6.78,7.08
-3787332,08/31/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York City FC,DC United,6.44,7.23
-3787637,08/31/22,BBVA Stadium,"Houston, Texas",United States,29.75224,-95.352179,Cfa,Houston Dynamo FC,Los Angeles FC,7.49,6.96
-3787636,08/31/22,GEODIS Park,"Nashville, Tennessee",United States,36.130239,-86.765556,Cfa,Nashville SC,Colorado Rapids,7.33,6.22
-3787635,08/31/22,Q2 Stadium,"Austin, Texas",United States,30.387727,-97.719505,Cfa,Austin FC,Portland Timbers,6.81,7.32
-3787634,08/31/22,Rio Tinto Stadium,"Sandy, Utah",United States,40.582817,-111.893585,BSk,Real Salt Lake,Minnesota United,7.49,6.16
-3787643,09/03/22,Allianz Field,"Saint Paul, Minnesota",United States,44.953128,-93.164766,Dfa,Minnesota United,FC Dallas,5.95,7.74
-3787654,09/03/22,Lower.com Field,"Columbus, Ohio",United States,39.968452,-83.017099,Cfa,Columbus Crew,Chicago Fire FC,7.23,7.07
-3787644,09/03/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York Red Bulls,Philadelphia Union,6.35,7.41
-3787645,09/03/22,TQL Stadium,"Cincinnati, Ohio",United States,39.111095,-84.522244,Cfa,FC Cincinnati,Charlotte FC,7.4,6.32
-3787652,09/03/22,GEODIS Park,"Nashville, Tennessee",United States,36.130239,-86.765556,Cfa,Nashville SC,Austin FC,7.82,5.94
-3787651,09/04/22,Providence Park,"Portland, Oregon",United States,45.521411,-122.691751,Csb,Portland Timbers,Atlanta United,7.32,6.69
-3787653,09/04/22,Audi Field,"Washington, District of Columbia",United States,38.868802,-77.012888,Cfa,DC United,Colorado Rapids,7.16,7.13
-3787731,09/04/22,BMO Field,"Toronto, Ontario",Canada,43.633206,-79.418557,Dfb,Toronto FC,CF Montreal,6.34,7.35
-3787650,09/04/22,Dignity Health Sports Park,"Carson, California",United States,33.864336,-118.261079,BSk,LA Galaxy,Sporting Kansas City,6.92,6.9
-3787648,09/04/22,Gillette Stadium,"Foxborough, Massachusetts",United States,42.091296,-71.264046,Dfb,New England Revolution,New York City FC,7.68,6.24
-3787647,09/04/22,Lumen Field,"Seattle, Washington",United States,47.595163,-122.331632,Csb,Seattle Sounders FC,Houston Dynamo FC,7.4,6.69
-3787732,09/04/22,Earthquakes Stadium,"San Jose, California",United States,37.351179,-121.924619,Csb,San Jose Earthquakes,Vancouver Whitecaps,7.65,6.61
-3787646,09/04/22,Banc of California Stadium,"Los Angeles, California",United States,34.012769,-118.284549,BSk,Los Angeles FC,Real Salt Lake,7.59,6.43
-3787633,09/07/22,Citi Field,"New York, New York",United States,40.757205,-73.845828,Cfa,New York City FC,FC Cincinnati,7.02,6.72
-3787720,09/09/22,Stade Saputo,"Montreal, Quebec",Canada,45.563072,-73.552684,Dfb,CF Montreal,Columbus Crew,7.16,7.09
-3787618,09/10/22,Bank of America Stadium,"Charlotte, North Carolina",United States,35.225823,-80.852873,Cfa,Charlotte FC,New York City FC,7.19,6.47
-3787619,09/10/22,GEODIS Park,"Nashville, Tennessee",United States,36.130239,-86.765556,Cfa,Nashville SC,LA Galaxy,6.86,7.13
-3787632,09/10/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York Red Bulls,New England Revolution,7.31,6.64
-3787719,09/10/22,Mercedes-Benz Stadium,"Atlanta, Georgia",United States,33.755406,-84.401075,Cfa,Atlanta United,Toronto FC,7.77,6.28
-3787617,09/10/22,TQL Stadium,"Cincinnati, Ohio",United States,39.111095,-84.522244,Cfa,FC Cincinnati,San Jose Earthquakes,7.97,5.67
-3787616,09/10/22,Subaru Park,"Chester, Pennsylvania",United States,39.83268,-75.378817,Cfa,Philadelphia Union,Orlando City,7.77,6.04
-3787615,09/10/22,SeatGeek Stadium,"Bridgeview, Illinois",United States,41.764814,-87.806141,Dfa,Chicago Fire FC,Inter Miami CF,7.65,6.39
-3787614,09/10/22,Lumen Field,"Seattle, Washington",United States,47.595163,-122.331632,Csb,Seattle Sounders FC,Austin FC,7.76,5.9
-3787613,09/10/22,Toyota Stadium,"Frisco, Texas",United States,33.154336,-96.835143,Cfa,FC Dallas,Los Angeles FC,7.34,5.97
-3787612,09/10/22,BBVA Stadium,"Houston, Texas",United States,29.75224,-95.352179,Cfa,Houston Dynamo FC,Sporting Kansas City,7.0,7.1
-3787718,09/10/22,Dick's Sporting Goods Park,"Denver, Colorado",United States,39.805676,-104.891807,Dfc,Colorado Rapids,Vancouver Whitecaps,7.38,6.34
-3787611,09/10/22,Rio Tinto Stadium,"Sandy, Utah",United States,40.582817,-111.893585,BSk,Real Salt Lake,DC United,7.08,6.79
-3787610,09/10/22,Providence Park,"Portland, Oregon",United States,45.521411,-122.691751,Csb,Portland Timbers,Minnesota United,7.46,6.89
-3787707,09/13/22,Stade Saputo,"Montreal, Quebec",Canada,45.563072,-73.552684,Dfb,CF Montreal,Chicago Fire FC,7.18,6.3
-3787620,09/13/22,Lockhart Stadium,"Fort Lauderdale, Florida",United States,26.193091,-80.161035,Aw,Inter Miami CF,Columbus Crew,7.44,6.73
-3787621,09/13/22,Allianz Field,"Saint Paul, Minnesota",United States,44.953128,-93.164766,Dfa,Minnesota United,Los Angeles FC,7.03,7.13
-3787629,09/13/22,BBVA Stadium,"Houston, Texas",United States,29.75224,-95.352179,Cfa,Houston Dynamo FC,New England Revolution,7.7,6.61
-3787631,09/13/22,Children's Mercy Park,"Kansas City, Kansas",United States,39.1216,-94.823191,Cfa,Sporting Kansas City,DC United,7.37,6.42
-3787628,09/14/22,Exploria Stadium,"Orlando, Florida",United States,28.541118,-81.389311,Cfa,Orlando City,Atlanta United,6.81,7.47
-3787630,09/14/22,Q2 Stadium,"Austin, Texas",United States,30.387727,-97.719505,Cfa,Austin FC,Real Salt Lake,7.41,6.32
-3787627,09/14/22,Dick's Sporting Goods Park,"Denver, Colorado",United States,39.805676,-104.891807,Dfc,Colorado Rapids,San Jose Earthquakes,7.24,6.67
-3787708,09/14/22,BC Place Stadium,"Vancouver, British Columbia",Canada,49.276723,-123.112031,Cfb,Vancouver Whitecaps,LA Galaxy,7.61,6.24
-3787626,09/17/22,Yankee Stadium,New York City,United States,40.829686,-73.926203,Cfa,New York City FC,New York Red Bulls,7.58,6.48
-3787624,09/17/22,Mercedes-Benz Stadium,"Atlanta, Georgia",United States,33.755406,-84.401075,Cfa,Atlanta United,Philadelphia Union,7.04,6.95
-3787709,09/17/22,Gillette Stadium,"Foxborough, Massachusetts",United States,42.091296,-71.264046,Dfb,New England Revolution,CF Montreal,6.67,7.83
-3787710,09/17/22,Exploria Stadium,"Orlando, Florida",United States,28.541118,-81.389311,Cfa,Orlando City,Toronto FC,7.7,6.17
-3787623,09/17/22,Soldier Field,"Chicago, Illinois",United States,41.86231,-87.616675,Dfa,Chicago Fire FC,Charlotte FC,6.62,7.23
-3787622,09/17/22,Children's Mercy Park,"Kansas City, Kansas",United States,39.1216,-94.823191,Cfa,Sporting Kansas City,Minnesota United,7.75,5.88
-3787684,09/17/22,Q2 Stadium,"Austin, Texas",United States,30.387727,-97.719505,Cfa,Austin FC,Nashville SC,6.93,6.85
-3787683,09/17/22,Rio Tinto Stadium,"Sandy, Utah",United States,40.582817,-111.893585,BSk,Real Salt Lake,FC Cincinnati,6.49,7.52
-3787711,09/17/22,BC Place Stadium,"Vancouver, British Columbia",Canada,49.276723,-123.112031,Cfb,Vancouver Whitecaps,Seattle Sounders FC,7.45,6.52
-3787682,09/17/22,Dignity Health Sports Park,"Carson, California",United States,33.864336,-118.261079,BSk,LA Galaxy,Colorado Rapids,7.67,5.87
-3787625,09/17/22,Earthquakes Stadium,"San Jose, California",United States,37.351179,-121.924619,Csb,San Jose Earthquakes,FC Dallas,7.13,6.81
-3787681,09/18/22,Lower.com Field,"Columbus, Ohio",United States,39.968452,-83.017099,Cfa,Columbus Crew,Portland Timbers,7.49,6.82
-3787680,09/18/22,Audi Field,"Washington, District of Columbia",United States,38.868802,-77.012888,Cfa,DC United,Inter Miami CF,6.36,7.42
-3787679,09/18/22,Banc of California Stadium,"Los Angeles, California",United States,34.012769,-118.284549,BSk,Los Angeles FC,Houston Dynamo FC,7.47,7.01
-3787415,09/24/22,Stanford Stadium,"Stanford, California",United States,37.434488,-122.16107,Csb,San Jose Earthquakes,LA Galaxy,6.42,7.45
-3787308,09/27/22,Lumen Field,"Seattle, Washington",United States,47.595163,-122.331632,Csb,Seattle Sounders FC,FC Cincinnati,6.91,7.11
-3787712,09/30/22,BMO Field,"Toronto, Ontario",Canada,43.633206,-79.418557,Dfb,Toronto FC,Inter Miami CF,6.88,7.45
-3787677,10/01/22,Gillette Stadium,"Foxborough, Massachusetts",United States,42.091296,-71.264046,Dfb,New England Revolution,Atlanta United,7.48,6.96
-3787685,10/01/22,Dick's Sporting Goods Park,"Denver, Colorado",United States,39.805676,-104.891807,Dfc,Colorado Rapids,FC Dallas,7.21,6.46
-3787686,10/01/22,Bank of America Stadium,"Charlotte, North Carolina",United States,35.225823,-80.852873,Cfa,Charlotte FC,Philadelphia Union,7.56,6.18
-3787713,10/01/22,Stade Saputo,"Montreal, Quebec",Canada,45.563072,-73.552684,Dfb,CF Montreal,DC United,7.28,6.38
-3787692,10/01/22,Lower.com Field,"Columbus, Ohio",United States,39.968452,-83.017099,Cfa,Columbus Crew,New York Red Bulls,6.94,6.59
-3787693,10/01/22,TQL Stadium,"Cincinnati, Ohio",United States,39.111095,-84.522244,Cfa,FC Cincinnati,Chicago Fire FC,6.76,7.48
-3787678,10/01/22,PayPal Park,"San Jose, California",United States,37.351179,-121.924619,Csb,San Jose Earthquakes,Minnesota United,7.46,6.65
-3787714,10/01/22,BC Place Stadium,"Vancouver, British Columbia",Canada,49.276723,-123.112031,Cfb,Vancouver Whitecaps,Austin FC,7.4,6.63
-3787691,10/01/22,Dignity Health Sports Park,"Carson, California",United States,33.864336,-118.261079,BSk,LA Galaxy,Real Salt Lake,7.41,7.17
-3787694,10/02/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York City FC,Orlando City,7.28,6.64
-3787690,10/02/22,Providence Park,"Portland, Oregon",United States,45.521411,-122.691751,Csb,Portland Timbers,Los Angeles FC,6.86,7.63
-3787689,10/02/22,Children's Mercy Park,"Kansas City, Kansas",United States,39.1216,-94.823191,Cfa,Sporting Kansas City,Seattle Sounders FC,7.39,6.65
-3787688,10/02/22,GEODIS Park,"Nashville, Tennessee",United States,36.130239,-86.765556,Cfa,Nashville SC,Houston Dynamo FC,6.92,7.25
-3787539,10/05/22,Bank of America Stadium,"Charlotte, North Carolina",United States,35.225823,-80.852873,Cfa,Charlotte FC,Columbus Crew,6.69,7.15
-3787649,10/05/22,Lockhart Stadium,"Fort Lauderdale, Florida",United States,26.193091,-80.161035,Aw,Inter Miami CF,Orlando City,7.27,6.17
-3787687,10/09/22,Mercedes-Benz Stadium,"Atlanta, Georgia",United States,33.755406,-84.401075,Cfa,Atlanta United,New York City FC,6.54,7.5
-3787676,10/09/22,SeatGeek Stadium,"Bridgeview, Illinois",United States,41.764814,-87.806141,Dfa,Chicago Fire FC,New England Revolution,6.96,7.23
-3787675,10/09/22,Audi Field,"Washington, District of Columbia",United States,38.868802,-77.012888,Cfa,DC United,FC Cincinnati,6.11,7.67
-3787715,10/09/22,Lockhart Stadium,"Fort Lauderdale, Florida",United States,26.193091,-80.161035,Aw,Inter Miami CF,CF Montreal,5.98,7.72
-3787674,10/09/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York Red Bulls,Charlotte FC,7.8,6.39
-3787657,10/09/22,Exploria Stadium,"Orlando, Florida",United States,28.541118,-81.389311,Cfa,Orlando City,Columbus Crew,7.34,6.85
-3787716,10/09/22,Subaru Park,"Chester, Pennsylvania",United States,39.83268,-75.378817,Cfa,Philadelphia Union,Toronto FC,7.66,6.3
-3787658,10/09/22,Q2 Stadium,"Austin, Texas",United States,30.387727,-97.719505,Cfa,Austin FC,Colorado Rapids,6.88,7.14
-3787659,10/09/22,Toyota Stadium,"Frisco, Texas",United States,33.154336,-96.835143,Cfa,FC Dallas,Sporting Kansas City,7.35,6.7
-3787660,10/09/22,BBVA Stadium,"Houston, Texas",United States,29.75224,-95.352179,Cfa,Houston Dynamo FC,LA Galaxy,6.11,7.77
-3787661,10/09/22,Banc of California Stadium,"Los Angeles, California",United States,34.012769,-118.284549,BSk,Los Angeles FC,Nashville SC,6.96,7.26
-3787717,10/09/22,Allianz Field,"Saint Paul, Minnesota",United States,44.953128,-93.164766,Dfa,Minnesota United,Vancouver Whitecaps,7.7,6.68
-3787662,10/09/22,Rio Tinto Stadium,"Sandy, Utah",United States,40.582817,-111.893585,BSk,Real Salt Lake,Portland Timbers,7.47,6.56
-3787663,10/09/22,Lumen Field,"Seattle, Washington",United States,47.595163,-122.331632,Csb,Seattle Sounders FC,San Jose Earthquakes,6.95,6.92
-4044407,10/15/22,Red Bull Arena,"Harrison, New Jersey",United States,40.736877,-74.150225,Cfa,New York Red Bulls,FC Cincinnati,6.75,7.31
-4044408,10/15/22,Dignity Health Sports Park,"Carson, California",United States,33.864336,-118.261079,BSk,LA Galaxy,Nashville SC,7.39,6.8
-4044409,10/16/22,Q2 Stadium,"Austin, Texas",United States,30.387727,-97.719505,Cfa,Austin FC,Real Salt Lake,7.15,7.11
-4044410,10/16/22,Stade Saputo,"Montreal, Quebec",Canada,45.563072,-73.552684,Dfb,CF Montreal,Orlando City,7.4,6.37
-4044411,10/17/22,Citi Field,"New York, New York",United States,40.757205,-73.845828,Cfa,New York City FC,Inter Miami CF,8.0,6.19
-4044412,10/17/22,Toyota Stadium,"Frisco, Texas",United States,33.154336,-96.835143,Cfa,FC Dallas,Minnesota United,7.22,7.29
-4044413,10/20/22,Subaru Park,"Chester, Pennsylvania",United States,39.83268,-75.378817,Cfa,Philadelphia Union,FC Cincinnati,7.48,7.01
-4044415,10/20/22,Banc of California Stadium,"Los Angeles, California",United States,34.012769,-118.284549,BSk,Los Angeles FC,LA Galaxy,7.29,6.7
-4044414,10/23/22,Stade Saputo,"Montreal, Quebec",Canada,45.563072,-73.552684,Dfb,CF Montreal,New York City FC,6.87,7.19
-4044416,10/23/22,Q2 Stadium,"Austin, Texas",United States,30.387727,-97.719505,Cfa,Austin FC,FC Dallas,7.31,6.57
-4050323,10/30/22,Banc of California Stadium,"Los Angeles, California",United States,34.012769,-118.284549,BSk,Los Angeles FC,Austin FC,7.58,6.39
-4050324,10/30/22,Subaru Park,"Chester, Pennsylvania",United States,39.83268,-75.378817,Cfa,Philadelphia Union,New York City FC,7.67,6.57
-4050325,11/05/22,Banc of California Stadium,"Los Angeles, California",United States,34.012769,-118.284549,BSk,Los Angeles FC,Philadelphia Union,7.21,7.22
+Koppen Climate,Home Team,Away Team,Home Avg Rating,Away Avg Rating
+Cfa,Philadelphia Union,Minnesota United,7.21,7.29
+Cfa,Columbus Crew,Vancouver Whitecaps,7.74,6.05
+BSk,Los Angeles FC,Colorado Rapids,7.74,6.25
+Cfa,FC Dallas,Toronto FC,7.01,7.19
+Cfa,Austin FC,FC Cincinnati,7.82,5.78
+Cfa,DC United,Charlotte FC,7.59,6.34
+Aw,Inter Miami CF,Chicago Fire FC,7.06,7.33
+Csb,San Jose Earthquakes,New York Red Bulls,6.76,7.59
+Csb,Portland Timbers,New England Revolution,7.08,7.13
+Cfa,Orlando City,CF Montreal,7.25,6.08
+Cfa,Atlanta United,Sporting Kansas City,7.48,6.46
+BSk,LA Galaxy,New York City FC,7.47,6.69
+Cfa,Houston Dynamo FC,Real Salt Lake,6.66,7.06
+Csb,Seattle Sounders FC,Nashville SC,6.51,7.5
+Dfb,New England Revolution,FC Dallas,7.36,6.97
+Dfb,Toronto FC,New York Red Bulls,6.24,7.91
+Cfa,Sporting Kansas City,Houston Dynamo FC,7.45,6.44
+Dfb,CF Montreal,Philadelphia Union,6.71,7.3
+Csb,San Jose Earthquakes,Columbus Crew,6.75,6.93
+Dfa,Chicago Fire FC,Orlando City,7.11,6.9
+Dfc,Colorado Rapids,Atlanta United,7.55,6.28
+Cfa,FC Cincinnati,DC United,6.77,7.17
+Dfa,Minnesota United,Nashville SC,6.94,7.24
+BSk,Real Salt Lake,Seattle Sounders FC,7.62,6.55
+Cfb,Vancouver Whitecaps,New York City FC,6.94,6.97
+Cfa,Charlotte FC,LA Galaxy,6.66,7.42
+Cfa,Austin FC,Inter Miami CF,7.29,5.95
+BSk,Los Angeles FC,Portland Timbers,7.12,7.23
+Cfa,New York City FC,CF Montreal,7.62,5.97
+Cfa,Columbus Crew,Toronto FC,7.58,6.95
+Aw,Inter Miami CF,Los Angeles FC,6.62,7.05
+Csb,Seattle Sounders FC,LA Galaxy,7.02,6.83
+Cfa,Houston Dynamo FC,Vancouver Whitecaps,7.19,6.87
+Cfa,DC United,Chicago Fire FC,6.78,7.84
+Dfb,New England Revolution,Real Salt Lake,6.61,7.35
+Cfa,Orlando City,FC Cincinnati,6.74,7.32
+Cfa,Philadelphia Union,San Jose Earthquakes,7.75,6.61
+Cfa,FC Dallas,Nashville SC,7.25,6.76
+Dfc,Colorado Rapids,Sporting Kansas City,7.56,6.38
+Csb,Portland Timbers,Austin FC,7.53,6.42
+Cfa,Atlanta United,Charlotte FC,7.35,6.76
+Cfa,New York Red Bulls,Minnesota United,7.09,7.66
+Cfa,FC Cincinnati,Inter Miami CF,7.41,6.24
+Cfa,New York City FC,Philadelphia Union,6.66,7.66
+Dfb,Toronto FC,DC United,7.46,6.75
+BSk,LA Galaxy,Orlando City,6.71,7.27
+Cfa,Atlanta United,CF Montreal,6.54,6.98
+Dfa,Chicago Fire FC,Sporting Kansas City,7.44,6.47
+Cfa,Charlotte FC,New England Revolution,7.43,6.32
+Dfa,Minnesota United,San Jose Earthquakes,7.31,6.86
+Cfa,FC Dallas,Portland Timbers,7.61,6.32
+Cfa,Houston Dynamo FC,Colorado Rapids,6.91,7.01
+BSk,Real Salt Lake,Nashville SC,7.5,6.69
+Cfa,New York Red Bulls,Columbus Crew,6.77,7.04
+Cfa,Austin FC,Seattle Sounders FC,7.05,7.11
+BSk,Los Angeles FC,Vancouver Whitecaps,7.46,6.9
+Cfa,Charlotte FC,FC Cincinnati,7.33,6.8
+Cfa,Sporting Kansas City,Real Salt Lake,7.39,6.71
+Csb,Portland Timbers,Orlando City,6.86,7.32
+Dfa,Chicago Fire FC,FC Dallas,7.01,6.85
+Cfa,FC Cincinnati,CF Montreal,6.68,7.5
+Dfb,Toronto FC,New York City FC,7.59,6.77
+Cfa,Columbus Crew,Nashville SC,7.0,7.42
+Cfa,DC United,Atlanta United,6.56,7.44
+Dfb,New England Revolution,New York Red Bulls,6.82,6.86
+Cfa,Orlando City,Los Angeles FC,6.47,7.21
+Cfa,Philadelphia Union,Charlotte FC,7.23,6.35
+Csb,San Jose Earthquakes,Austin FC,7.04,7.04
+Aw,Inter Miami CF,Houston Dynamo FC,6.8,7.38
+Dfa,Minnesota United,Seattle Sounders FC,6.44,7.25
+Cfb,Vancouver Whitecaps,Sporting Kansas City,7.26,6.63
+Dfc,Colorado Rapids,Real Salt Lake,7.23,6.97
+Csb,Portland Timbers,LA Galaxy,6.44,7.27
+Cfa,Orlando City,Chicago Fire FC,7.6,6.58
+Aw,Inter Miami CF,New England Revolution,7.52,6.48
+Cfa,New York Red Bulls,CF Montreal,6.63,7.45
+Cfa,Philadelphia Union,Columbus Crew,7.17,6.77
+BSk,LA Galaxy,Los Angeles FC,7.26,6.58
+BSk,Real Salt Lake,Toronto FC,7.06,6.82
+Cfa,FC Dallas,Colorado Rapids,7.38,6.72
+Cfa,Houston Dynamo FC,San Jose Earthquakes,6.9,6.35
+Cfa,Sporting Kansas City,Nashville SC,6.88,7.37
+Cfb,Vancouver Whitecaps,Portland Timbers,6.83,7.52
+Cfa,Charlotte FC,Atlanta United,7.36,6.76
+Cfa,Austin FC,Minnesota United,7.31,6.85
+Dfb,CF Montreal,Vancouver Whitecaps,7.42,6.29
+Csb,San Jose Earthquakes,Nashville SC,7.11,7.08
+Cfa,Atlanta United,FC Cincinnati,7.13,6.78
+Cfa,Houston Dynamo FC,Portland Timbers,6.8,7.23
+Cfa,New York Red Bulls,FC Dallas,7.33,7.12
+Cfa,Columbus Crew,Orlando City,6.42,7.65
+Cfa,DC United,Austin FC,6.42,6.87
+Dfb,New England Revolution,Charlotte FC,7.47,6.55
+Dfb,Toronto FC,Philadelphia Union,7.31,6.98
+Dfa,Chicago Fire FC,LA Galaxy,6.94,7.07
+Dfa,Minnesota United,Colorado Rapids,7.7,6.74
+Csb,Seattle Sounders FC,Inter Miami CF,6.7,7.43
+Cfa,New York City FC,Real Salt Lake,7.92,5.88
+BSk,Los Angeles FC,Sporting Kansas City,7.42,6.09
+Cfa,FC Dallas,Houston Dynamo FC,7.0,6.75
+Cfa,Philadelphia Union,CF Montreal,6.77,7.04
+Dfa,Minnesota United,Chicago Fire FC,7.52,6.08
+Cfa,DC United,New England Revolution,7.24,6.79
+Cfa,Austin FC,Vancouver Whitecaps,7.59,6.13
+Cfa,Sporting Kansas City,Columbus Crew,6.9,7.01
+Dfc,Colorado Rapids,Charlotte FC,6.91,6.72
+Csb,Portland Timbers,Real Salt Lake,7.25,7.14
+Csb,San Jose Earthquakes,Seattle Sounders FC,7.53,6.5
+BSk,LA Galaxy,Nashville SC,7.57,6.65
+Aw,Inter Miami CF,Atlanta United,7.31,6.46
+Cfa,Orlando City,New York Red Bulls,6.53,7.54
+Cfa,FC Cincinnati,Los Angeles FC,6.98,7.57
+Cfa,New York City FC,Toronto FC,7.18,6.7
+Cfa,Houston Dynamo FC,Austin FC,6.6,7.11
+Dfb,Toronto FC,FC Cincinnati,6.9,7.37
+BSk,Real Salt Lake,LA Galaxy,7.43,6.51
+Dfb,CF Montreal,Atlanta United,7.3,6.88
+Cfa,Columbus Crew,DC United,7.5,6.3
+Dfb,New England Revolution,Inter Miami CF,7.75,6.3
+Cfa,Orlando City,Charlotte FC,7.47,6.54
+Dfa,Chicago Fire FC,New York Red Bulls,6.45,7.18
+Cfa,Sporting Kansas City,FC Dallas,6.99,7.15
+Dfc,Colorado Rapids,Portland Timbers,7.58,6.42
+Cfa,New York City FC,San Jose Earthquakes,7.6,6.1
+Cfa,Nashville SC,Philadelphia Union,7.06,7.11
+BSk,Los Angeles FC,Minnesota United,7.62,6.63
+Cfa,FC Cincinnati,Toronto FC,7.63,6.4
+Cfa,Charlotte FC,Inter Miami CF,7.36,6.94
+Dfb,CF Montreal,Orlando City,7.5,5.74
+Cfa,Atlanta United,Chicago Fire FC,7.51,5.94
+Cfa,New York City FC,Sporting Kansas City,7.15,6.92
+Cfa,New York Red Bulls,Portland Timbers,7.2,7.05
+Cfa,DC United,Houston Dynamo FC,7.5,6.7
+Dfb,New England Revolution,Columbus Crew,7.19,6.75
+Dfa,Minnesota United,FC Cincinnati,7.01,7.22
+Cfa,FC Dallas,Seattle Sounders FC,7.55,6.26
+Csb,San Jose Earthquakes,Colorado Rapids,7.39,6.9
+BSk,Los Angeles FC,Philadelphia Union,6.96,7.16
+Cfb,Vancouver Whitecaps,Toronto FC,7.18,6.67
+Cfa,Nashville SC,Real Salt Lake,7.48,6.57
+Cfa,Austin FC,LA Galaxy,6.65,7.08
+Dfb,Toronto FC,Orlando City,6.58,7.43
+Dfc,Colorado Rapids,Los Angeles FC,7.35,6.35
+Cfa,Charlotte FC,CF Montreal,6.61,7.27
+Cfa,New York City FC,Columbus Crew,7.6,6.55
+Cfb,Vancouver Whitecaps,San Jose Earthquakes,6.98,7.06
+Cfa,Philadelphia Union,New York Red Bulls,7.06,7.06
+Dfa,Chicago Fire FC,FC Cincinnati,6.52,7.16
+Aw,Inter Miami CF,DC United,7.04,7.13
+Cfa,Houston Dynamo FC,Nashville SC,7.27,6.5
+BSk,Real Salt Lake,Austin FC,7.36,6.28
+Csb,Portland Timbers,Sporting Kansas City,7.7,5.62
+BSk,LA Galaxy,FC Dallas,6.08,7.64
+Cfa,Atlanta United,New England Revolution,7.11,7.16
+Csb,Seattle Sounders FC,Minnesota United,7.46,6.84
+Cfa,DC United,New York City FC,6.51,7.57
+Cfa,New York Red Bulls,Chicago Fire FC,6.75,7.02
+Cfa,Philadelphia Union,Inter Miami CF,7.13,7.32
+Dfa,Minnesota United,LA Galaxy,7.35,7.26
+Cfa,Houston Dynamo FC,Seattle Sounders FC,6.43,7.42
+Cfa,Nashville SC,CF Montreal,7.27,6.39
+Cfa,Sporting Kansas City,Colorado Rapids,6.91,6.46
+Cfb,Vancouver Whitecaps,FC Dallas,7.11,6.68
+BSk,Los Angeles FC,Austin FC,6.65,7.65
+Csb,San Jose Earthquakes,Portland Timbers,7.45,6.47
+Cfa,Columbus Crew,Los Angeles FC,6.51,7.07
+Cfa,FC Cincinnati,New England Revolution,6.38,7.26
+Cfa,DC United,Toronto FC,7.08,6.94
+Cfa,Nashville SC,Atlanta United,6.78,6.91
+Dfb,CF Montreal,Real Salt Lake,6.52,7.3
+Cfa,Charlotte FC,Vancouver Whitecaps,6.84,6.54
+Cfa,New York City FC,Chicago Fire FC,7.47,6.58
+Aw,Inter Miami CF,New York Red Bulls,7.78,6.55
+Cfa,FC Dallas,Minnesota United,6.82,7.16
+Csb,San Jose Earthquakes,Sporting Kansas City,7.16,7.13
+Cfa,Austin FC,Orlando City,6.69,7.03
+Dfc,Colorado Rapids,Seattle Sounders FC,7.2,6.48
+BSk,LA Galaxy,Houston Dynamo FC,6.34,7.68
+Csb,Portland Timbers,Philadelphia Union,6.57,7.72
+BSk,Los Angeles FC,San Jose Earthquakes,7.39,6.67
+Cfa,Atlanta United,Columbus Crew,6.64,7.42
+Cfa,New York Red Bulls,DC United,7.44,6.16
+Dfb,Toronto FC,Chicago Fire FC,7.09,7.39
+Dfb,CF Montreal,FC Cincinnati,7.15,6.44
+Dfb,New England Revolution,Philadelphia Union,6.89,6.78
+Cfa,Orlando City,FC Dallas,6.32,7.39
+Aw,Inter Miami CF,Portland Timbers,7.18,6.68
+Dfa,Minnesota United,New York City FC,6.68,7.57
+Dfc,Colorado Rapids,Nashville SC,6.63,7.32
+Cfa,Sporting Kansas City,Vancouver Whitecaps,6.73,7.12
+BSk,Real Salt Lake,Houston Dynamo FC,7.85,6.12
+BSk,LA Galaxy,Austin FC,7.41,6.21
+Csb,Seattle Sounders FC,Charlotte FC,7.62,6.46
+Cfb,Vancouver Whitecaps,Real Salt Lake,6.95,6.67
+Cfa,Charlotte FC,New York Red Bulls,7.61,6.45
+Cfa,Nashville SC,San Jose Earthquakes,7.31,7.25
+Cfa,Sporting Kansas City,New England Revolution,6.33,7.19
+Csb,Seattle Sounders FC,Vancouver Whitecaps,7.82,6.08
+Dfb,New England Revolution,Orlando City,7.07,7.1
+Csb,Seattle Sounders FC,Los Angeles FC,7.12,6.84
+BSk,LA Galaxy,Portland Timbers,6.96,7.29
+Cfa,New York Red Bulls,Toronto FC,7.77,6.54
+Dfb,CF Montreal,Austin FC,6.73,7.13
+Cfa,Columbus Crew,Charlotte FC,6.99,6.87
+Cfa,Orlando City,Houston Dynamo FC,7.57,6.58
+Cfa,Philadelphia Union,FC Cincinnati,7.14,7.23
+Dfa,Chicago Fire FC,DC United,7.39,6.74
+Cfa,FC Dallas,Vancouver Whitecaps,6.48,7.29
+BSk,Real Salt Lake,San Jose Earthquakes,7.25,6.42
+Cfa,Atlanta United,Inter Miami CF,7.85,6.25
+Dfb,New England Revolution,Minnesota United,7.46,6.49
+Cfa,New York City FC,Colorado Rapids,7.0,6.94
+Cfa,Nashville SC,Sporting Kansas City,6.46,7.11
+Cfa,FC Cincinnati,Orlando City,7.08,6.99
+Csb,Seattle Sounders FC,Sporting Kansas City,7.64,6.34
+Cfa,DC United,Nashville SC,6.04,7.47
+Dfb,CF Montreal,Charlotte FC,7.11,6.29
+Dfb,Toronto FC,Atlanta United,7.27,6.74
+Cfa,Houston Dynamo FC,Chicago Fire FC,7.59,6.51
+Aw,Inter Miami CF,Minnesota United,7.06,6.51
+Cfa,Austin FC,FC Dallas,6.82,6.81
+BSk,Real Salt Lake,Columbus Crew,6.98,6.99
+Csb,Portland Timbers,Colorado Rapids,7.7,6.49
+BSk,Los Angeles FC,New York Red Bulls,7.65,6.65
+Cfa,Philadelphia Union,New York City FC,7.39,6.83
+Cfb,Vancouver Whitecaps,New England Revolution,6.97,7.02
+Cfa,FC Cincinnati,New York City FC,7.43,6.59
+Dfb,Toronto FC,Columbus Crew,6.92,7.7
+Dfa,Chicago Fire FC,Philadelphia Union,7.35,6.73
+Csb,Seattle Sounders FC,CF Montreal,6.55,7.38
+BSk,LA Galaxy,Minnesota United,6.17,7.4
+BSk,Los Angeles FC,FC Dallas,7.71,6.52
+Csb,Portland Timbers,Houston Dynamo FC,7.13,7.16
+Cfa,Charlotte FC,Austin FC,6.85,7.05
+Cfa,New York Red Bulls,Atlanta United,7.34,6.54
+Dfb,Toronto FC,Seattle Sounders FC,6.67,7.64
+Cfb,Vancouver Whitecaps,Los Angeles FC,7.09,6.71
+Cfa,New York City FC,Atlanta United,7.11,7.12
+Cfa,Columbus Crew,Philadelphia Union,7.05,6.74
+Dfb,New England Revolution,FC Cincinnati,7.0,6.95
+Dfa,Minnesota United,Real Salt Lake,7.16,6.57
+Cfa,Sporting Kansas City,New York Red Bulls,6.73,7.15
+Cfa,Houston Dynamo FC,Charlotte FC,6.48,7.15
+Cfa,Nashville SC,Portland Timbers,7.23,6.94
+Csb,San Jose Earthquakes,Chicago Fire FC,7.58,6.6
+Cfa,Orlando City,DC United,6.34,7.42
+Dfc,Colorado Rapids,Austin FC,6.32,6.99
+Cfa,FC Dallas,Inter Miami CF,7.06,6.87
+BSk,LA Galaxy,CF Montreal,7.77,6.74
+Cfa,Philadelphia Union,DC United,8.26,5.83
+BSk,Los Angeles FC,LA Galaxy,7.44,6.83
+Cfb,Vancouver Whitecaps,Minnesota United,6.73,7.39
+Cfa,New York City FC,New England Revolution,7.27,6.82
+Csb,Seattle Sounders FC,Portland Timbers,6.64,7.65
+Cfa,Atlanta United,Austin FC,6.21,7.4
+Dfb,CF Montreal,Sporting Kansas City,6.8,7.2
+Cfa,Charlotte FC,Nashville SC,7.56,6.57
+Dfb,Toronto FC,San Jose Earthquakes,6.98,7.05
+Cfa,FC Cincinnati,New York Red Bulls,6.57,7.01
+Cfa,Orlando City,Inter Miami CF,7.23,6.56
+Dfa,Chicago Fire FC,Columbus Crew,6.33,6.87
+Cfa,Houston Dynamo FC,FC Dallas,6.9,7.03
+BSk,Real Salt Lake,Colorado Rapids,6.84,6.72
+Cfa,Austin FC,Houston Dynamo FC,7.25,6.21
+Cfa,Atlanta United,Real Salt Lake,7.62,6.46
+Dfa,Chicago Fire FC,Toronto FC,7.6,6.25
+Cfa,DC United,Columbus Crew,6.87,6.58
+Cfa,FC Cincinnati,Vancouver Whitecaps,7.2,6.82
+Aw,Inter Miami CF,Philadelphia Union,6.62,7.35
+Dfa,Minnesota United,Sporting Kansas City,6.97,7.14
+Cfa,Nashville SC,Seattle Sounders FC,7.38,6.69
+Dfc,Colorado Rapids,Orlando City,6.85,7.1
+Cfa,FC Dallas,New York City FC,6.51,7.28
+BSk,LA Galaxy,San Jose Earthquakes,6.76,7.56
+Dfb,CF Montreal,Toronto FC,7.16,6.65
+Cfa,Philadelphia Union,New England Revolution,7.37,7.11
+Dfa,Chicago Fire FC,Seattle Sounders FC,7.37,6.8
+Aw,Inter Miami CF,Charlotte FC,7.24,6.72
+Dfa,Minnesota United,DC United,7.5,6.3
+Dfc,Colorado Rapids,LA Galaxy,7.57,6.16
+Cfa,FC Dallas,Austin FC,7.34,7.2
+Cfa,Atlanta United,Orlando City,6.99,6.88
+Cfa,New York Red Bulls,New York City FC,6.64,7.75
+Cfa,Columbus Crew,FC Cincinnati,7.55,6.5
+Cfa,Nashville SC,Los Angeles FC,6.54,7.29
+BSk,Real Salt Lake,Sporting Kansas City,7.58,6.18
+Csb,San Jose Earthquakes,Houston Dynamo FC,6.63,7.6
+Csb,Portland Timbers,Vancouver Whitecaps,7.08,7.1
+Cfa,New York City FC,Inter Miami CF,7.35,6.66
+Cfa,Columbus Crew,New England Revolution,7.08,7.08
+Cfa,FC Cincinnati,Nashville SC,7.15,6.98
+Cfa,Orlando City,Philadelphia Union,6.72,7.27
+Dfb,Toronto FC,Charlotte FC,7.77,5.77
+Cfa,DC United,CF Montreal,6.33,7.4
+Cfa,Houston Dynamo FC,Minnesota United,6.98,7.2
+Cfa,Sporting Kansas City,Los Angeles FC,6.35,7.5
+BSk,Real Salt Lake,FC Dallas,7.03,7.11
+Csb,Seattle Sounders FC,Colorado Rapids,7.48,6.75
+Cfb,Vancouver Whitecaps,Chicago Fire FC,6.23,7.66
+Csb,Portland Timbers,San Jose Earthquakes,7.47,6.58
+Cfa,Austin FC,New York Red Bulls,6.38,6.76
+BSk,LA Galaxy,Atlanta United,7.42,6.49
+BSk,Los Angeles FC,Seattle Sounders FC,7.31,6.52
+Dfa,Minnesota United,Portland Timbers,6.75,6.79
+Dfa,Chicago Fire FC,Atlanta United,7.0,6.78
+Dfb,CF Montreal,New York City FC,6.97,6.77
+Cfa,Philadelphia Union,Houston Dynamo FC,7.97,5.84
+Aw,Inter Miami CF,FC Cincinnati,6.65,7.24
+Cfa,Nashville SC,Vancouver Whitecaps,7.13,7.05
+Dfb,New England Revolution,Toronto FC,6.97,7.03
+Cfa,Sporting Kansas City,Austin FC,6.07,7.39
+Cfa,FC Dallas,LA Galaxy,7.42,6.88
+Csb,San Jose Earthquakes,Real Salt Lake,7.02,6.98
+Cfa,DC United,Orlando City,7.12,6.86
+Cfa,New York Red Bulls,Colorado Rapids,6.48,7.06
+Csb,Seattle Sounders FC,FC Dallas,7.61,6.58
+Cfa,Charlotte FC,DC United,7.54,6.18
+Cfa,Columbus Crew,CF Montreal,6.78,7.06
+Csb,Portland Timbers,Nashville SC,7.13,7.13
+Csb,San Jose Earthquakes,Inter Miami CF,6.96,7.26
+Cfb,Vancouver Whitecaps,Houston Dynamo FC,7.07,6.74
+Cfa,Atlanta United,Seattle Sounders FC,7.16,6.43
+Cfa,Charlotte FC,Chicago Fire FC,6.44,7.36
+Dfb,CF Montreal,Inter Miami CF,7.09,7.06
+Cfa,Columbus Crew,New York City FC,7.46,6.33
+Cfa,DC United,New York Red Bulls,6.79,7.05
+Cfa,FC Cincinnati,Philadelphia Union,7.5,6.32
+Cfa,Orlando City,New England Revolution,6.3,7.45
+Cfa,Nashville SC,Toronto FC,6.89,7.46
+Cfa,Sporting Kansas City,LA Galaxy,7.43,6.36
+Cfa,Austin FC,San Jose Earthquakes,6.91,6.97
+Dfc,Colorado Rapids,Minnesota United,6.99,6.27
+BSk,Real Salt Lake,Los Angeles FC,6.3,7.4
+Csb,Portland Timbers,FC Dallas,6.92,7.21
+Cfa,New York Red Bulls,Orlando City,6.7,7.19
+Cfa,FC Cincinnati,Atlanta United,7.22,7.25
+Dfb,New England Revolution,DC United,7.51,6.42
+Cfa,Philadelphia Union,Chicago Fire FC,7.62,6.01
+Dfb,Toronto FC,Portland Timbers,7.77,6.7
+Aw,Inter Miami CF,New York City FC,7.41,6.56
+Cfa,Austin FC,Sporting Kansas City,6.82,6.63
+Dfc,Colorado Rapids,Columbus Crew,6.86,7.18
+Cfa,FC Dallas,San Jose Earthquakes,7.63,6.11
+Cfa,Houston Dynamo FC,CF Montreal,6.64,7.41
+BSk,LA Galaxy,Vancouver Whitecaps,7.63,6.42
+BSk,Los Angeles FC,Charlotte FC,7.94,5.53
+Cfa,Nashville SC,Minnesota United,7.04,7.17
+Csb,Seattle Sounders FC,Real Salt Lake,6.65,7.25
+BSk,Los Angeles FC,DC United,7.56,6.62
+Cfa,Atlanta United,New York Red Bulls,6.77,7.52
+Dfb,Toronto FC,New England Revolution,7.2,6.96
+Cfa,New York City FC,Charlotte FC,6.71,7.39
+Cfa,FC Dallas,Philadelphia Union,7.48,6.74
+Cfb,Vancouver Whitecaps,Colorado Rapids,7.12,6.6
+BSk,LA Galaxy,Seattle Sounders FC,6.83,7.23
+Cfa,New York Red Bulls,FC Cincinnati,7.1,7.0
+Dfb,CF Montreal,New England Revolution,7.85,6.47
+Cfa,DC United,Philadelphia Union,5.94,7.98
+Aw,Inter Miami CF,Toronto FC,7.22,6.79
+Dfa,Minnesota United,Austin FC,7.52,6.55
+Dfc,Colorado Rapids,Houston Dynamo FC,7.04,6.84
+BSk,Real Salt Lake,Vancouver Whitecaps,7.18,7.14
+Csb,San Jose Earthquakes,Los Angeles FC,7.29,6.77
+Cfa,Columbus Crew,Atlanta United,7.08,6.99
+Dfa,Chicago Fire FC,New York City FC,6.24,7.49
+Cfa,Charlotte FC,Orlando City,6.48,7.43
+Cfa,Sporting Kansas City,Portland Timbers,7.66,6.31
+Cfa,Nashville SC,FC Dallas,7.58,5.96
+Cfa,Austin FC,Los Angeles FC,7.62,6.06
+Csb,Portland Timbers,Seattle Sounders FC,7.48,6.9
+Dfa,Minnesota United,Houston Dynamo FC,7.21,6.62
+Cfa,Charlotte FC,Toronto FC,6.55,7.46
+Cfa,New York Red Bulls,Inter Miami CF,7.4,6.05
+Cfa,FC Cincinnati,Columbus Crew,6.84,6.96
+Cfa,Philadelphia Union,Colorado Rapids,7.91,5.85
+Dfa,Chicago Fire FC,CF Montreal,6.37,7.39
+Cfa,Sporting Kansas City,San Jose Earthquakes,7.52,6.63
+Cfa,FC Dallas,Real Salt Lake,6.94,7.0
+Cfb,Vancouver Whitecaps,Nashville SC,6.36,7.58
+Cfa,Atlanta United,DC United,7.54,6.46
+Cfa,Orlando City,New York City FC,7.1,6.58
+Dfb,New England Revolution,LA Galaxy,6.96,7.45
+Cfa,Philadelphia Union,Atlanta United,7.52,6.49
+Dfb,CF Montreal,New York Red Bulls,6.73,7.41
+Cfa,Columbus Crew,Inter Miami CF,7.51,6.43
+Dfb,New England Revolution,Chicago Fire FC,7.24,7.24
+Cfa,Orlando City,Seattle Sounders FC,6.94,6.72
+Dfb,Toronto FC,LA Galaxy,6.78,7.08
+Cfa,New York City FC,DC United,6.44,7.23
+Cfa,Houston Dynamo FC,Los Angeles FC,7.49,6.96
+Cfa,Nashville SC,Colorado Rapids,7.33,6.22
+Cfa,Austin FC,Portland Timbers,6.81,7.32
+BSk,Real Salt Lake,Minnesota United,7.49,6.16
+Dfa,Minnesota United,FC Dallas,5.95,7.74
+Cfa,Columbus Crew,Chicago Fire FC,7.23,7.07
+Cfa,New York Red Bulls,Philadelphia Union,6.35,7.41
+Cfa,FC Cincinnati,Charlotte FC,7.4,6.32
+Cfa,Nashville SC,Austin FC,7.82,5.94
+Csb,Portland Timbers,Atlanta United,7.32,6.69
+Cfa,DC United,Colorado Rapids,7.16,7.13
+Dfb,Toronto FC,CF Montreal,6.34,7.35
+BSk,LA Galaxy,Sporting Kansas City,6.92,6.9
+Dfb,New England Revolution,New York City FC,7.68,6.24
+Csb,Seattle Sounders FC,Houston Dynamo FC,7.4,6.69
+Csb,San Jose Earthquakes,Vancouver Whitecaps,7.65,6.61
+BSk,Los Angeles FC,Real Salt Lake,7.59,6.43
+Cfa,New York City FC,FC Cincinnati,7.02,6.72
+Dfb,CF Montreal,Columbus Crew,7.16,7.09
+Cfa,Charlotte FC,New York City FC,7.19,6.47
+Cfa,Nashville SC,LA Galaxy,6.86,7.13
+Cfa,New York Red Bulls,New England Revolution,7.31,6.64
+Cfa,Atlanta United,Toronto FC,7.77,6.28
+Cfa,FC Cincinnati,San Jose Earthquakes,7.97,5.67
+Cfa,Philadelphia Union,Orlando City,7.77,6.04
+Dfa,Chicago Fire FC,Inter Miami CF,7.65,6.39
+Csb,Seattle Sounders FC,Austin FC,7.76,5.9
+Cfa,FC Dallas,Los Angeles FC,7.34,5.97
+Cfa,Houston Dynamo FC,Sporting Kansas City,7.0,7.1
+Dfc,Colorado Rapids,Vancouver Whitecaps,7.38,6.34
+BSk,Real Salt Lake,DC United,7.08,6.79
+Csb,Portland Timbers,Minnesota United,7.46,6.89
+Dfb,CF Montreal,Chicago Fire FC,7.18,6.3
+Aw,Inter Miami CF,Columbus Crew,7.44,6.73
+Dfa,Minnesota United,Los Angeles FC,7.03,7.13
+Cfa,Houston Dynamo FC,New England Revolution,7.7,6.61
+Cfa,Sporting Kansas City,DC United,7.37,6.42
+Cfa,Orlando City,Atlanta United,6.81,7.47
+Cfa,Austin FC,Real Salt Lake,7.41,6.32
+Dfc,Colorado Rapids,San Jose Earthquakes,7.24,6.67
+Cfb,Vancouver Whitecaps,LA Galaxy,7.61,6.24
+Cfa,New York City FC,New York Red Bulls,7.58,6.48
+Cfa,Atlanta United,Philadelphia Union,7.04,6.95
+Dfb,New England Revolution,CF Montreal,6.67,7.83
+Cfa,Orlando City,Toronto FC,7.7,6.17
+Dfa,Chicago Fire FC,Charlotte FC,6.62,7.23
+Cfa,Sporting Kansas City,Minnesota United,7.75,5.88
+Cfa,Austin FC,Nashville SC,6.93,6.85
+BSk,Real Salt Lake,FC Cincinnati,6.49,7.52
+Cfb,Vancouver Whitecaps,Seattle Sounders FC,7.45,6.52
+BSk,LA Galaxy,Colorado Rapids,7.67,5.87
+Csb,San Jose Earthquakes,FC Dallas,7.13,6.81
+Cfa,Columbus Crew,Portland Timbers,7.49,6.82
+Cfa,DC United,Inter Miami CF,6.36,7.42
+BSk,Los Angeles FC,Houston Dynamo FC,7.47,7.01
+Csb,San Jose Earthquakes,LA Galaxy,6.42,7.45
+Csb,Seattle Sounders FC,FC Cincinnati,6.91,7.11
+Dfb,Toronto FC,Inter Miami CF,6.88,7.45
+Dfb,New England Revolution,Atlanta United,7.48,6.96
+Dfc,Colorado Rapids,FC Dallas,7.21,6.46
+Cfa,Charlotte FC,Philadelphia Union,7.56,6.18
+Dfb,CF Montreal,DC United,7.28,6.38
+Cfa,Columbus Crew,New York Red Bulls,6.94,6.59
+Cfa,FC Cincinnati,Chicago Fire FC,6.76,7.48
+Csb,San Jose Earthquakes,Minnesota United,7.46,6.65
+Cfb,Vancouver Whitecaps,Austin FC,7.4,6.63
+BSk,LA Galaxy,Real Salt Lake,7.41,7.17
+Cfa,New York City FC,Orlando City,7.28,6.64
+Csb,Portland Timbers,Los Angeles FC,6.86,7.63
+Cfa,Sporting Kansas City,Seattle Sounders FC,7.39,6.65
+Cfa,Nashville SC,Houston Dynamo FC,6.92,7.25
+Cfa,Charlotte FC,Columbus Crew,6.69,7.15
+Aw,Inter Miami CF,Orlando City,7.27,6.17
+Cfa,Atlanta United,New York City FC,6.54,7.5
+Dfa,Chicago Fire FC,New England Revolution,6.96,7.23
+Cfa,DC United,FC Cincinnati,6.11,7.67
+Aw,Inter Miami CF,CF Montreal,5.98,7.72
+Cfa,New York Red Bulls,Charlotte FC,7.8,6.39
+Cfa,Orlando City,Columbus Crew,7.34,6.85
+Cfa,Philadelphia Union,Toronto FC,7.66,6.3
+Cfa,Austin FC,Colorado Rapids,6.88,7.14
+Cfa,FC Dallas,Sporting Kansas City,7.35,6.7
+Cfa,Houston Dynamo FC,LA Galaxy,6.11,7.77
+BSk,Los Angeles FC,Nashville SC,6.96,7.26
+Dfa,Minnesota United,Vancouver Whitecaps,7.7,6.68
+BSk,Real Salt Lake,Portland Timbers,7.47,6.56
+Csb,Seattle Sounders FC,San Jose Earthquakes,6.95,6.92
+Cfa,New York Red Bulls,FC Cincinnati,6.75,7.31
+BSk,LA Galaxy,Nashville SC,7.39,6.8
+Cfa,Austin FC,Real Salt Lake,7.15,7.11
+Dfb,CF Montreal,Orlando City,7.4,6.37
+Cfa,New York City FC,Inter Miami CF,8.0,6.19
+Cfa,FC Dallas,Minnesota United,7.22,7.29
+Cfa,Philadelphia Union,FC Cincinnati,7.48,7.01
+BSk,Los Angeles FC,LA Galaxy,7.29,6.7
+Dfb,CF Montreal,New York City FC,6.87,7.19
+Cfa,Austin FC,FC Dallas,7.31,6.57
+BSk,Los Angeles FC,Austin FC,7.58,6.39
+Cfa,Philadelphia Union,New York City FC,7.67,6.57
+BSk,Los Angeles FC,Philadelphia Union,7.21,7.22

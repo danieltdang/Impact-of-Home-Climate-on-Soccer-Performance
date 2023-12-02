@@ -20,7 +20,7 @@ def Get_Matches():
     print(f"Processing {matchCount} matches...")
     
     with open('matches.csv', 'w', newline='', encoding='utf-8') as file:
-        fieldnames = ['Match ID', 'Date', 'Stadium', 'City', 'Country', 'Latitude', 'Longitude', 'Koppen Climate', 'Home Team', 'Away Team', 'Home Avg Rating', 'Away Avg Rating']
+        fieldnames = ['Koppen Climate', 'Home Team', 'Away Team', 'Home Avg Rating', 'Away Avg Rating']
         
         writer = csv.DictWriter(file, fieldnames=fieldnames)
         writer.writeheader()
@@ -54,13 +54,6 @@ def Get_Matches():
             location_data = df.iloc[closest_index]
             
             row_data = {
-                'Match ID': matchId,
-                'Date': formatted_date,
-                'Stadium': stadium['name'],
-                'City': stadium['city'],
-                'Country': stadium['country'],
-                'Latitude': stadium['lat'],
-                'Longitude': stadium['long'],
                 'Koppen Climate': location_data['KG_zone'],
                 'Home Team': matchResponse['content']['lineup']['lineup'][0]["teamName"],
                 'Home Avg Rating': 0.0,
