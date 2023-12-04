@@ -11,7 +11,7 @@ from sklearn.model_selection import train_test_split, cross_val_score
 
 def multiple_linear_regression():
     print("--------------------------------------------------------")
-    print("Starting the evaluation the multiple linear regression model.")
+    print("Starting the evaluation of the multiple linear regression model.")
     # Load data
     print("Loading data from matches.csv...")
     df = pd.read_csv('matches.csv')
