@@ -91,3 +91,6 @@ def get_matches():
             print(f"Match {i} [{matchId}] - Processing complete")
     
     print(f"Finished processing {matchCount} matches with {matchCount * 22} players and {errorCount} errors")
+
+if __name__ == "__main__":
+    get_matches()
