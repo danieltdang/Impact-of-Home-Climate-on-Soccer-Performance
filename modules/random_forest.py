@@ -91,3 +91,6 @@ def random_forest():
 
     print("Finished evaluating the random forest model.")
     print("--------------------------------------------------------")
+
+if __name__ == "__main__":
+    random_forest()

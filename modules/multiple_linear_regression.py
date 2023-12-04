@@ -64,7 +64,7 @@ def multiple_linear_regression():
     print("Processing the multiple linear regression model...")
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.25, random_state = 42)
     reg_model = LinearRegression().fit(X_train, y_train)
-    print('Intercept: ', reg_model.intercept_)
+    print(f'Intercept: {reg_model.intercept_}')
     list(zip(X, reg_model.coef_))
 
     y_pred = reg_model.predict(X_test)  
@@ -85,3 +85,6 @@ def multiple_linear_regression():
     
     print("Finished evaluating the multiple linear regression model.")
     print("--------------------------------------------------------")
+    
+if __name__ == "__main__":
+    multiple_linear_regression()
