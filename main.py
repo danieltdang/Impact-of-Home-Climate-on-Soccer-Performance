@@ -1,4 +1,4 @@
 from modules import algorithms, matches
-# matches.Get_Matches()
+# matches.get_matches()
 # algorithms.random_forest()
 # algorithms.multiple_linear_regression()

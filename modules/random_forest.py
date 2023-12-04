@@ -4,6 +4,8 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
     
 def random_forest():
+    print("--------------------------------------------------------")
+    print("Starting the evaluation the random forest model.")
     # Load data
     print("Loading data from matches.csv...")
     df = pd.read_csv('matches.csv')
@@ -79,6 +81,7 @@ def random_forest():
     ratio = tp / (fp + fn) if (fp + fn) > 0 else 'Undefined' 
 
     print("----------------------------")
+    print("Random Forest Model Evaluation:\n")
     print(f"True Positives (TP): {tp}")
     print(f"False Positives (FP): {fp}")
     print(f"True Negatives (TN): {tn}")
@@ -86,4 +89,5 @@ def random_forest():
     print(f"TP/(FP+FN): {ratio}")
     print("----------------------------")
 
-    print("Finished evaluating the random forest model")
+    print("Finished evaluating the random forest model.")
+    print("--------------------------------------------------------")

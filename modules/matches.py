@@ -3,7 +3,7 @@ import pvcz
 import json
 import csv
 
-def Get_Elevation(lat, long):
+def get_elevation(lat, long):
 
     url = f"https://api.open-elevation.com/api/v1/lookup?locations={lat},{long}"
 
@@ -15,7 +15,7 @@ def Get_Elevation(lat, long):
     return response["results"][0]["elevation"]
 
 
-def Get_Matches():
+def get_matches():
     df = pvcz.get_pvcz_data()
     
     url = 'https://www.fotmob.com/api/leagues?id=130&ccode3=USA_FL&season=2022'
@@ -47,7 +47,7 @@ def Get_Matches():
 
             row_data = {
                 'Koppen Climate': location_data['KG_zone'],
-                'Elevation (meters)': Get_Elevation(stadium['lat'], stadium['long']),
+                'Elevation (meters)': get_elevation(stadium['lat'], stadium['long']),
                 'Temperature (c)': location_data['T_ambient_mean'],
                 'Humidity (g/kg)': location_data['specific_humidity_mean'],
                 'Home Team': matchResponse['content']['lineup']['lineup'][0]["teamName"],
