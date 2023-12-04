@@ -2,8 +2,18 @@ import requests
 import pvcz
 import json
 import csv
-import time
-from datetime import datetime, timezone
+
+def Get_Elevation(lat, long):
+
+    url = f"https://api.open-elevation.com/api/v1/lookup?locations={lat},{long}"
+
+    payload = {}
+    headers = {}
+
+    response = json.loads(requests.request("GET", url, headers=headers, data=payload).text)
+
+    return response["results"][0]["elevation"]
+
 
 def Get_Matches():
     df = pvcz.get_pvcz_data()
@@ -20,7 +30,7 @@ def Get_Matches():
     print(f"Processing {matchCount} matches...")
     
     with open('matches.csv', 'w', newline='', encoding='utf-8') as file:
-        fieldnames = ['Koppen Climate', 'Home Team', 'Away Team', 'Home Avg Rating', 'Away Avg Rating']
+        fieldnames = ['Koppen Climate', 'Elevation (meters)','Temperature (c)', 'Humidity (g/kg)', 'Home Team', 'Away Team', 'Home Avg Rating', 'Away Avg Rating']
         
         writer = csv.DictWriter(file, fieldnames=fieldnames)
         writer.writeheader()
@@ -32,29 +42,14 @@ def Get_Matches():
 
             stadium = matchResponse['content']['matchFacts']['infoBox']['Stadium']
             
-            # Convert UTC time to standardized date format
-            date = matchResponse["general"]["matchTimeUTC"]
-            
-            # Define the input format
-            input_format = "%a, %b %d, %Y, %H:%M %Z"
-
-            # Parse the UTC time string
-            utc_time = datetime.strptime(date, input_format)
-
-            # Convert to local time
-            utc_time = utc_time.replace(tzinfo=timezone.utc)
-            local_time = utc_time.astimezone()
-
-            # Define the output format
-            output_format = "%m/%d/%y"
-
-            formatted_date = local_time.strftime(output_format)
-
             closest_index = pvcz.arg_closest_point(stadium['lat'], stadium['long'], df['lat'], df['lon'])
             location_data = df.iloc[closest_index]
-            
+
             row_data = {
                 'Koppen Climate': location_data['KG_zone'],
+                'Elevation (meters)': Get_Elevation(stadium['lat'], stadium['long']),
+                'Temperature (c)': location_data['T_ambient_mean'],
+                'Humidity (g/kg)': location_data['specific_humidity_mean'],
                 'Home Team': matchResponse['content']['lineup']['lineup'][0]["teamName"],
                 'Home Avg Rating': 0.0,
                 'Away Team': matchResponse['content']['lineup']['lineup'][1]["teamName"],
@@ -96,3 +91,5 @@ def Get_Matches():
             print(f"Match {i} [{matchId}] - Processing complete")
     
     print(f"Finished processing {matchCount} matches with {matchCount * 22} players and {errorCount} errors")
+    
+Get_Matches()
