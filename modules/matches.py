@@ -91,5 +91,3 @@ def Get_Matches():
             print(f"Match {i} [{matchId}] - Processing complete")
     
     print(f"Finished processing {matchCount} matches with {matchCount * 22} players and {errorCount} errors")
-    
-Get_Matches()
