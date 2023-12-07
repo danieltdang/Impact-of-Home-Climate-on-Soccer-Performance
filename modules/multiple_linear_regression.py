@@ -65,6 +65,7 @@ def multiple_linear_regression():
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.25, random_state = 42)
     reg_model = LinearRegression().fit(X_train, y_train)
     print(f'Intercept: {reg_model.intercept_}')
+    print(f'Coefficients: {reg_model.coef_}')
     list(zip(X, reg_model.coef_))
 
     y_pred = reg_model.predict(X_test)  
