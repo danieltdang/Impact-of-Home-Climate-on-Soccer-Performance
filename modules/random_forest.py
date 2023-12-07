@@ -19,7 +19,7 @@ def random_forest():
     df['Away Team'] = team_le.fit_transform(df['Away Team'])
 
     # Selecting features for the model
-    features = ['Koppen Climate', 'Home Team', 'Away Team']
+    features = ['Koppen Climate', 'Home Team', 'Away Team', 'Elevation (meters)', 'Temperature (c)', 'Humidity (g/kg)']
     X = df[features]
 
     # Separate targets for home and away ratings
