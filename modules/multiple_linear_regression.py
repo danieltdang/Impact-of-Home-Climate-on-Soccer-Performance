@@ -15,7 +15,7 @@ def multiple_linear_regression():
     # Load data
     print("Loading data from matches.csv...")
     df = pd.read_csv('matches.csv')
-    print(df.describe())
+    #print(df.describe())
 
     print("Setting the features and target variables...")
     X = df[['Elevation (meters)', 'Temperature (c)', 'Humidity (g/kg)']]
@@ -23,10 +23,12 @@ def multiple_linear_regression():
 
     # Box plots
     print("Processing Box plots...")
-    fig1, axs1 = plt.subplots(3)
-    sns.boxplot(x=df['Elevation (meters)'], ax = axs1[0])
-    sns.boxplot(x=df['Temperature (c)'], ax = axs1[1])
-    sns.boxplot(x=df['Humidity (g/kg)'], ax = axs1[2])
+    fig1_1, axs1_1 = plt.subplots(1, figsize=(8, 2))
+    sns.boxplot(x=df['Elevation (meters)'], ax=axs1_1)
+    fig1_2, axs1_2 = plt.subplots(1, figsize=(8, 2))
+    sns.boxplot(x=df['Temperature (c)'], ax=axs1_2)
+    fig1_3, axs1_3 = plt.subplots(1, figsize=(8, 2))
+    sns.boxplot(x=df['Humidity (g/kg)'], ax=axs1_3, )
 
     # Distribution plot
     print("Processing Distribution plots...")
@@ -38,10 +40,12 @@ def multiple_linear_regression():
 
     # Scatter plots
     print("Processing Scatter plots...")
-    fig3, axs3 = plt.subplots(3, figsize=(10, 10))
-    sns.scatterplot(df, x='Elevation (meters)', y='Away Avg Rating', ax = axs3[0])
-    sns.scatterplot(df, x='Temperature (c)', y='Away Avg Rating', ax = axs3[1])
-    sns.scatterplot(df, x='Humidity (g/kg)', y='Away Avg Rating', ax = axs3[2])
+    fig3_1, axs3_1 = plt.subplots(1, figsize=(8, 4))
+    sns.scatterplot(df, x='Elevation (meters)', y='Away Avg Rating', ax = axs3_1)
+    fig3_2, axs3_2 = plt.subplots(1, figsize=(8, 4))
+    sns.scatterplot(df, x='Temperature (c)', y='Away Avg Rating', ax = axs3_2)
+    fig3_3, axs3_3 = plt.subplots(1, figsize=(8, 4))
+    sns.scatterplot(df, x='Humidity (g/kg)', y='Away Avg Rating', ax = axs3_3)
 
     # Heatmap plot
     print("Processing Heatmap...")
@@ -49,13 +53,21 @@ def multiple_linear_regression():
     sns.heatmap(df.corr(numeric_only = True), annot = True, cmap = 'coolwarm')
 
     # Save plots
-    fig1.tight_layout()
     print("Saving plots into plots folder...")
-    fig1.savefig('plots/box_plots.png')
+    fig1_1.tight_layout()
+    fig1_1.savefig('plots/box_plot_1.png')
+    fig1_2.tight_layout()
+    fig1_2.savefig('plots/box_plot_2.png')
+    fig1_3.tight_layout()
+    fig1_3.savefig('plots/box_plot_3.png')
     fig2.tight_layout()
     fig2.savefig('plots/distribution_plot.png')
-    fig3.tight_layout()
-    fig3.savefig('plots/scatter_plots.png')
+    fig3_1.tight_layout()
+    fig3_1.savefig('plots/scatter_plot_1.png')
+    fig3_2.tight_layout()
+    fig3_2.savefig('plots/scatter_plot_2.png')
+    fig3_3.tight_layout()
+    fig3_3.savefig('plots/scatter_plot_3.png')
     fig4.tight_layout()
     fig4.savefig('plots/heatmap.png')
     print("Finished saving plots into plots folder.")
