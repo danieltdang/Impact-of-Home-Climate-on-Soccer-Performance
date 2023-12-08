@@ -69,7 +69,7 @@ def multiple_linear_regression():
     fig3_3.savefig('plots/scatter_plot_3.png')
     fig4.tight_layout()
     fig4.savefig('plots/heatmap.png')
-    print("[Multiple Linear Regression]  Finished saving plots into plots folder.")
+    print("[Multiple Linear Regression] Finished saving plots into plots folder.")
 
     # Multiple Multiple Linear Regression model
     print("[Multiple Linear Regression] Processing the multiple Multiple linear regression model...")
@@ -97,7 +97,7 @@ def multiple_linear_regression():
     print("-=-=-=-=-=-=-=-=-=-=-=-=-")
 
 
-    print("\n \n [Multiple Linear Regression] Terminiating... \n \n")
+    print("\n \n [Multiple Linear Regression] Terminating... \n \n")
     
 if __name__ == "__main__":
     multiple_linear_regression()

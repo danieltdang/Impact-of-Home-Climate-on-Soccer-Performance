@@ -89,7 +89,7 @@ def random_forest():
     print(f"TP/(FP+FN): {ratio}")
     print("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-")
 
-    print("\n \n [Linear Regression] Terminiating... \n \n")
+    print("\n \n [Linear Regression] Terminating... \n \n")
 
 if __name__ == "__main__":
     random_forest()

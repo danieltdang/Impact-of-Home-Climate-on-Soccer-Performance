@@ -1,7 +1,6 @@
 # Impact of Home Climate on Soccer Performance
-The Impact of an Athlete’s Home Country Weather and Climate on Soccer Performance
 
-## [Köppen's Climate Classification System](https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification#Overview)
+## Köppen's Climate Classification System
 
 | 1st             | 2nd                                                                        | 3rd                                                                 |
 |-----------------|----------------------------------------------------------------------------|---------------------------------------------------------------------|
@@ -24,14 +23,12 @@ The Impact of an Athlete’s Home Country Weather and Climate on Soccer Performa
 ### Example Classification
 - `Cfa` will be classified as `Temperate, no dry season, and hot summer`
 
-##
-
 ## Getting Started
 
 Follow these steps to run the code on your machine:
 
 ### Prerequisites
-- Ensure you have Python 3.11 or above installed on your machine.
+- Ensure you have Python 3.9 or above installed on your machine.
 - Make sure you have the libraries in `requirements.txt` installed:
 
 ```bash
@@ -39,13 +36,14 @@ pip install -r requirements.txt
 ```
 
 ### Data Setup
-- 'mathces.csv' is contained within the main directory of the repository
-- Ensure main file has access to read 'matches.csv'
+- `matches.csv` is contained within the main directory of the repository
+- Ensure main file has access to read `matches.csv`
+- If you want to setup matches from a different time and/or league, ensure to uncomment `matches.get_matches()` in `main.py` and update the URL (`https://www.fotmob.com/api/leagues?id={id}&ccode3={code}&season={year}`) on line 21 of `matches.py`
 
 
 ### Run the Code
 
-Execute the `main.py` script to :
+Execute the `main.py` script to start running the Random Forest and Multiple Linear Regression models and the ANOVA test on the dataset:
 
 ```bash
 python main.py
@@ -53,7 +51,7 @@ python main.py
 
 ### Output
 
-- Multiple Linear Regression plots can be found within the `/plots` directory
+- Data Visualization plots can be found within the `/plots` directory
 
 Example Output:
 
@@ -82,7 +80,7 @@ Example Output:
     -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 
-    [Linear Regression] Terminiating...
+    [Linear Regression] Terminating...
 
 
     -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
@@ -94,7 +92,7 @@ Example Output:
     [Multiple Linear Regression] Processing Scatter plots...
     [Multiple Linear Regression] Processing Heatmap...
     [Multiple Linear Regression] Saving plots into plots folder...
-    [Multiple Linear Regression]  Finished saving plots into plots folder.
+    [Multiple Linear Regression] Finished saving plots into plots folder.
     [Multiple Linear Regression] Processing the multiple Multiple linear regression model...
     -=-=-=-=-=-=-=-=-=-=-=-=-
     Intercept: 6.868754361971029
@@ -108,7 +106,7 @@ Example Output:
     -=-=-=-=-=-=-=-=-=-=-=-=-
 
 
-    [Multiple Linear Regression] Terminiating...
+    [Multiple Linear Regression] Terminating...
 
 
     -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
@@ -126,6 +124,6 @@ Example Output:
     -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 
-    [ANOVA] Terminiating...
+    [ANOVA] Terminating...
 
 ```

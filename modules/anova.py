@@ -26,7 +26,7 @@ def anova():
     print(anova_result)
     print("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-")
 
-    print("\n \n [ANOVA] Terminiating... \n \n")
+    print("\n \n [ANOVA] Terminating... \n \n")
 
 if __name__ == "__main__":
     anova()
