@@ -37,9 +37,13 @@ pip install -r requirements.txt
 
 ### Data Setup
 - `matches.csv` is contained within the main directory of the repository
+  - If missing, uncomment `matches.get_matches()` in `main.py` and then execute the code
 - Ensure main file has access to read `matches.csv`
 - If you want to setup matches from a different time and/or league, ensure to uncomment `matches.get_matches()` in `main.py` and update the URL (`https://www.fotmob.com/api/leagues?id={id}&ccode3={code}&season={year}`) on line 21 of `matches.py`
 
+### Data Format
+- `matches.csv` contains Koppen Climate, Elevation (meters), Temperature (c), Humidity (g/kg), Home Team, Away Team, Home Avg Rating, Away Avg Rating
+- `combined.csv` contains Koppen Climate, Home Team, Away Team, Elevation (meters), Temperature (c), Humidity (g/kg), Actual Home Avg Rating, Predicted Home Avg Rating, Actual Away Avg Rating, Predicted Away Avg Rating
 
 ### Run the Code
 

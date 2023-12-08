@@ -66,7 +66,7 @@ def random_forest():
 
     # Save the combined dataframe to a CSV file
     combined_df.to_csv('combined.csv', index=False)
-    print("[Random Forest] Saved the combined dataframe to a CSV file")
+    print("[Random Forest] Saved the combined dataframe to combined.csv")
 
     # Reading in Data from 'Combined.csv' and focusing four main fields
     cr = pd.read_csv('combined.csv', usecols=['Actual Home Avg Rating','Predicted Home Avg Rating', 'Actual Away Avg Rating', 'Predicted Away Avg Rating'])
