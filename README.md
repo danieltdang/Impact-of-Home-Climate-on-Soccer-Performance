@@ -39,8 +39,8 @@ pip install -r requirements.txt
 ```
 
 ### Data Setup
-    - 'mathces.csv' is contained within the main directory of the repository
-    - Ensure main file has access to read 'matches.csv'
+'mathces.csv' is contained within the main directory of the repository
+Ensure main file has access to read 'matches.csv'
 
 
 ### Run the Code
