@@ -52,7 +52,8 @@ python main.py
 ```
 
 ### Output
-The code outputs 
+
+- Multiple Linear Regression plots can be found within the `/plots` directory
 
 Example Output:
 
